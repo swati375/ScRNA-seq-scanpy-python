@@ -1,0 +1,15 @@
+# data
+data/
+*.h5ad
+
+# results
+results/
+figures/
+
+# python
+__pycache__/
+*.pyc
+
+# env
+.env
+.venv
