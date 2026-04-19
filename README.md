@@ -1,19 +1,19 @@
-🧬 Single-cell RNA-seq Analysis Toolkit (Python)
-
+**Single-cell RNA-seq Analysis Toolkit (Python) using scanpy
+**
 A modular and reproducible single-cell RNA-seq analysis pipeline implemented in Python using Scanpy. This set of codes is a starting point for your single-cell data obtained from the sequencer after running on cellranger (once you obtained your gene expression matrix)
 
 
-⚙️ Installation
+⚙️ **Installation**
 conda create -n scrna-toolkit python=3.10
 conda activate scrna-toolkit
 pip install -r requirements.txt
 
-🧪 Dataset
+🧪 **Dataset**
 
 Tested using: PBMC 3k dataset from 10x Genomics
 Can be used with your in-house generated data by replacing with your own data in the data/ folder
 
-🚀 Functionality provides by the module:
+🚀 **Functionality provides by the module:**
 Preprocessing and QC (including mitochondrial filtering)
 Cell cycle scoring
 Highly variable gene selection
@@ -24,7 +24,7 @@ Differential gene expression (DEG) analysis
 Marker-based and DEG-based cluster annotation
 Export of results and plots
 
-🧠 Methods
+🧠 **Methods**
 Clustering: Leiden algorithm
 DEG: Wilcoxon rank-sum test
 Annotation:
@@ -33,14 +33,15 @@ DEG-based overlap with canonical markers
 
 
 
-▶️ Run Pipeline
+▶️ **How to Run Pipeline**
 python main.py
-📊 Outputs
+
+Results can be seen in results and figures folders.
 results/deg_filtered.csv → high-confidence marker genes
 results/cell_annotations.csv → cluster annotations
 figures/umap_*.png → visualizations
 
-📌 Upcoming
+📌 **Upcoming**
 Reference-based annotation
 Integration with spatial transcriptomics
 User-friendly app interface
