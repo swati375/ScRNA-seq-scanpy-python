@@ -1,5 +1,5 @@
-**Single-cell RNA-seq Analysis Toolkit (Python) using scanpy
-**
+**Single-cell RNA-seq Analysis Toolkit (Python) using scanpy**
+
 A modular and reproducible single-cell RNA-seq analysis pipeline implemented in Python using Scanpy. This set of codes is a starting point for your single-cell data obtained from the sequencer after running on cellranger (once you obtained your gene expression matrix)
 
 
