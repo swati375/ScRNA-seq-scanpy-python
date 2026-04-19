@@ -1,0 +1,2695 @@
+,clusters,cell_type,cell_type_deg
+AAACATACAACCAC-1,0,T cells,T cells
+AAACATTGAGCTAC-1,1,B cells,B cells
+AAACATTGATCAGC-1,0,T cells,T cells
+AAACCGTGCTTCCG-1,2,Monocytes,Monocytes
+AAACCGTGTATGCG-1,3,NK cells,NK cells
+AAACGCACTGGTAC-1,0,T cells,T cells
+AAACGCTGACCAGT-1,0,T cells,T cells
+AAACGCTGGTTCTT-1,0,T cells,T cells
+AAACGCTGTAGCCA-1,3,NK cells,NK cells
+AAACGCTGTTTCTG-1,2,Monocytes,Monocytes
+AAACTTGAAAAACG-1,1,B cells,B cells
+AAACTTGATCCAGA-1,0,T cells,T cells
+AAAGAGACGAGATA-1,0,T cells,T cells
+AAAGAGACGCGAGA-1,2,Monocytes,Monocytes
+AAAGAGACGGACTT-1,3,NK cells,NK cells
+AAAGAGACGGCATT-1,0,T cells,T cells
+AAAGATCTGGGCAA-1,2,Monocytes,Monocytes
+AAAGCAGAAGCCAT-1,3,NK cells,NK cells
+AAAGCAGATATCGG-1,2,Monocytes,Monocytes
+AAAGCCTGTATGCG-1,0,T cells,T cells
+AAAGGCCTGTCTAG-1,1,B cells,B cells
+AAAGTTTGATCACG-1,1,B cells,B cells
+AAAGTTTGGGGTGA-1,1,B cells,B cells
+AAAGTTTGTAGAGA-1,0,T cells,T cells
+AAAGTTTGTAGCGT-1,2,Monocytes,Monocytes
+AAATCAACAATGCC-1,1,B cells,B cells
+AAATCAACACCAGT-1,0,T cells,T cells
+AAATCAACCAGGAG-1,0,T cells,T cells
+AAATCAACCCTATT-1,4,Monocytes,Monocytes
+AAATCAACGGAAGC-1,0,T cells,T cells
+AAATCAACTCGCAA-1,0,T cells,T cells
+AAATCATGACCACA-1,4,Monocytes,Monocytes
+AAATCCCTCCACAA-1,0,T cells,T cells
+AAATCCCTGCTATG-1,1,B cells,B cells
+AAATGTTGAACGAA-1,2,Monocytes,Monocytes
+AAATGTTGCCACAA-1,0,T cells,T cells
+AAATGTTGTGGCAT-1,2,Monocytes,Monocytes
+AAATTCGAAGGTTC-1,0,T cells,T cells
+AAATTCGAATCACG-1,2,Monocytes,Monocytes
+AAATTCGAGCTGAT-1,4,Monocytes,Monocytes
+AAATTCGAGGAGTG-1,0,T cells,T cells
+AAATTCGATTCTCA-1,3,NK cells,NK cells
+AAATTGACACGACT-1,3,NK cells,NK cells
+AAATTGACTCGCTC-1,0,T cells,T cells
+AACAAACTCATTTC-1,0,T cells,T cells
+AACAAACTTTCGTT-1,0,T cells,T cells
+AACAATACGACGAG-1,0,T cells,T cells
+AACACGTGCAGAGG-1,0,T cells,T cells
+AACACGTGGAAAGT-1,0,T cells,T cells
+AACACGTGGAACCT-1,2,Monocytes,Monocytes
+AACACGTGGCTACA-1,0,T cells,T cells
+AACACGTGTACGAC-1,4,Monocytes,Monocytes
+AACAGCACAAGAGT-1,2,Monocytes,Monocytes
+AACATTGATGGGAG-1,4,Monocytes,Monocytes
+AACCAGTGATACCG-1,4,Monocytes,Monocytes
+AACCCAGATCGCTC-1,0,T cells,T cells
+AACCGATGCTCCCA-1,0,T cells,T cells
+AACCGATGGTCATG-1,1,B cells,B cells
+AACCGATGTTCTAC-1,2,Monocytes,Monocytes
+AACCGCCTAGCGTT-1,0,T cells,T cells
+AACCGCCTCTACGA-1,2,Monocytes,Monocytes
+AACCTACTGTGAGG-1,2,Monocytes,Monocytes
+AACCTACTGTGTTG-1,0,T cells,T cells
+AACCTTACGAGACG-1,0,T cells,T cells
+AACCTTACGCGAGA-1,3,NK cells,NK cells
+AACCTTACTAACGC-1,4,Monocytes,Monocytes
+AACCTTTGGACGGA-1,0,T cells,T cells
+AACCTTTGTACGCA-1,4,Monocytes,Monocytes
+AACGCAACAAGTAG-1,0,T cells,T cells
+AACGCATGACCCAA-1,0,T cells,T cells
+AACGCATGCCTTCG-1,0,T cells,T cells
+AACGCATGTACTTC-1,0,T cells,T cells
+AACGCCCTCGGGAA-1,0,T cells,T cells
+AACGCCCTCGTACA-1,3,NK cells,NK cells
+AACGCCCTGCTTAG-1,1,B cells,B cells
+AACGCCCTGGCATT-1,0,T cells,T cells
+AACGTCGAGTATCG-1,3,NK cells,NK cells
+AACGTGTGAAAGCA-1,0,T cells,T cells
+AACGTGTGGCGGAA-1,1,B cells,B cells
+AACGTGTGTCCAAG-1,0,T cells,T cells
+AACGTGTGTGCTTT-1,0,T cells,T cells
+AACTACCTTAGAGA-1,0,T cells,T cells
+AACTCACTCAAGCT-1,2,Monocytes,Monocytes
+AACTCACTTGGAGG-1,2,Monocytes,Monocytes
+AACTCGGAAAGTGA-1,3,NK cells,NK cells
+AACTCGGAAGGTCT-1,2,Monocytes,Monocytes
+AACTCTTGCAGGAG-1,0,T cells,T cells
+AACTGTCTCCCTTG-1,2,Monocytes,Monocytes
+AACTTGCTACGCTA-1,1,B cells,B cells
+AACTTGCTGGGACA-1,0,T cells,T cells
+AAGAACGAGTGTTG-1,0,T cells,T cells
+AAGAAGACGTAGGG-1,1,B cells,B cells
+AAGACAGAAGTCTG-1,1,B cells,B cells
+AAGACAGAGGATCT-1,0,T cells,T cells
+AAGACAGATTACCT-1,2,Monocytes,Monocytes
+AAGAGATGGGTAGG-1,1,B cells,B cells
+AAGATGGAAAACAG-1,1,B cells,B cells
+AAGATGGAGAACTC-1,2,Monocytes,Monocytes
+AAGATGGAGATAAG-1,2,Monocytes,Monocytes
+AAGATTACAACCTG-1,0,T cells,T cells
+AAGATTACAGATCC-1,2,Monocytes,Monocytes
+AAGATTACCCGTTC-1,2,Monocytes,Monocytes
+AAGATTACCGCCTT-1,5,Monocytes,Unknown
+AAGATTACCTCAAG-1,3,NK cells,NK cells
+AAGATTACTCCTCG-1,2,Monocytes,Monocytes
+AAGCAAGAGCGAGA-1,0,T cells,T cells
+AAGCAAGAGCTTAG-1,3,NK cells,NK cells
+AAGCAAGAGGTGTT-1,3,NK cells,NK cells
+AAGCACTGAGCAAA-1,1,B cells,B cells
+AAGCACTGCATACG-1,0,T cells,T cells
+AAGCACTGGTTCTT-1,1,B cells,B cells
+AAGCCAACGTGTTG-1,0,T cells,T cells
+AAGCCATGAACTGC-1,5,Monocytes,Unknown
+AAGCCATGACACGT-1,2,Monocytes,Monocytes
+AAGCCATGCGTGAT-1,0,T cells,T cells
+AAGCCATGTCTCGC-1,0,T cells,T cells
+AAGCCTGACATGCA-1,0,T cells,T cells
+AAGCCTGACCGAAT-1,2,Monocytes,Monocytes
+AAGCGACTCCTCAC-1,4,Monocytes,Monocytes
+AAGCGACTGTGTCA-1,0,T cells,T cells
+AAGCGACTTACAGC-1,1,B cells,B cells
+AAGCGACTTTGACG-1,4,Monocytes,Monocytes
+AAGCGTACGTCTTT-1,0,T cells,T cells
+AAGGCTTGCGAACT-1,3,NK cells,NK cells
+AAGGTCACGGTTAC-1,2,Monocytes,Monocytes
+AAGGTCACTGTTTC-1,1,B cells,B cells
+AAGGTCACTTCCCG-1,3,NK cells,NK cells
+AAGGTCTGACAGTC-1,0,T cells,T cells
+AAGGTCTGCAGATC-1,0,T cells,T cells
+AAGGTCTGGTATGC-1,2,Monocytes,Monocytes
+AAGTAACTCTGAAC-1,2,Monocytes,Monocytes
+AAGTAACTGAGATA-1,1,B cells,B cells
+AAGTAGGATACAGC-1,3,NK cells,NK cells
+AAGTATACCGAACT-1,0,T cells,T cells
+AAGTCCGACTTGTT-1,0,T cells,T cells
+AAGTCCGATAGAAG-1,0,T cells,T cells
+AAGTCTCTAGTCGT-1,0,T cells,T cells
+AAGTCTCTCGGAGA-1,3,NK cells,NK cells
+AAGTGGCTTGGAGG-1,1,B cells,B cells
+AAGTTCCTCATTCT-1,4,Monocytes,Monocytes
+AAGTTCCTTCTTAC-1,0,T cells,T cells
+AATAAGCTCGAATC-1,0,T cells,T cells
+AATAAGCTCGTTGA-1,0,T cells,T cells
+AATACCCTGGACGA-1,1,B cells,B cells
+AATACCCTGGCATT-1,0,T cells,T cells
+AATACTGAAAGGGC-1,3,NK cells,NK cells
+AATACTGAATTGGC-1,3,NK cells,NK cells
+AATAGGGAACCCTC-1,1,B cells,B cells
+AATAGGGAGAATGA-1,3,NK cells,NK cells
+AATCAAACTATCGG-1,0,T cells,T cells
+AATCCGGAATGCTG-1,1,B cells,B cells
+AATCCTACCGGTAT-1,0,T cells,T cells
+AATCCTTGACGGGA-1,2,Monocytes,Monocytes
+AATCCTTGGTGAGG-1,3,NK cells,NK cells
+AATCGGTGGAACTC-1,3,NK cells,NK cells
+AATCGGTGTGCTTT-1,0,T cells,T cells
+AATCTAGAAAAGTG-1,0,T cells,T cells
+AATCTAGAATCGGT-1,0,T cells,T cells
+AATCTCACAGCCTA-1,2,Monocytes,Monocytes
+AATCTCACTCTAGG-1,0,T cells,T cells
+AATCTCTGAACAGA-1,0,T cells,T cells
+AATCTCTGCTTTAC-1,3,NK cells,NK cells
+AATGATACACCAAC-1,3,NK cells,NK cells
+AATGATACGGTCAT-1,2,Monocytes,Monocytes
+AATGCGTGACACCA-1,1,B cells,B cells
+AATGCGTGGACGGA-1,5,Monocytes,Unknown
+AATGCGTGGCTATG-1,1,B cells,B cells
+AATGGAGAATCGTG-1,2,Monocytes,Monocytes
+AATGGAGATCCTTA-1,3,NK cells,NK cells
+AATGGCTGACACCA-1,1,B cells,B cells
+AATGGCTGCGTGAT-1,0,T cells,T cells
+AATGGCTGTAAAGG-1,0,T cells,T cells
+AATGGCTGTACTCT-1,0,T cells,T cells
+AATGGCTGTGAAGA-1,0,T cells,T cells
+AATGTAACGGTGGA-1,0,T cells,T cells
+AATGTAACGTTTGG-1,3,NK cells,NK cells
+AATGTCCTCTTCTA-1,0,T cells,T cells
+AATGTTGACAGTCA-1,0,T cells,T cells
+AATGTTGAGTTGAC-1,2,Monocytes,Monocytes
+AATGTTGATCTACT-1,0,T cells,T cells
+AATTACGAATTCCT-1,5,Monocytes,Unknown
+AATTACGACTTCTA-1,0,T cells,T cells
+AATTACGAGTAGCT-1,3,NK cells,NK cells
+AATTACGAGTGAGG-1,0,T cells,T cells
+AATTACGATTGGCA-1,1,B cells,B cells
+AATTCCTGCTCAGA-1,1,B cells,B cells
+AATTGATGTCGCAA-1,4,Monocytes,Monocytes
+AATTGTGACTTGGA-1,1,B cells,B cells
+ACAAAGGAGGGTGA-1,0,T cells,T cells
+ACAAATTGATTCTC-1,4,Monocytes,Monocytes
+ACAAATTGCTCAGA-1,2,Monocytes,Monocytes
+ACAAATTGTTGCGA-1,3,NK cells,NK cells
+ACAACCGAGGGATG-1,3,NK cells,NK cells
+ACAACCGAGTTACG-1,0,T cells,T cells
+ACAAGAGAAGTCGT-1,2,Monocytes,Monocytes
+ACAAGAGACTTATC-1,0,T cells,T cells
+ACAAGAGAGTTGAC-1,1,B cells,B cells
+ACAATCCTAACCGT-1,0,T cells,T cells
+ACAATCCTTAGCGT-1,1,B cells,B cells
+ACAATTGACTGACA-1,3,NK cells,NK cells
+ACAATTGATGACTG-1,3,NK cells,NK cells
+ACACAGACACCTGA-1,2,Monocytes,Monocytes
+ACACAGACCATACG-1,3,NK cells,NK cells
+ACACCAGAGGGCAA-1,3,NK cells,NK cells
+ACACCCTGGTGTTG-1,3,NK cells,NK cells
+ACACGAACAGTTCG-1,0,T cells,T cells
+ACACGATGACGCAT-1,3,NK cells,NK cells
+ACACGATGATGTGC-1,2,Monocytes,Monocytes
+ACACGATGTCGTAG-1,3,NK cells,NK cells
+ACACGATGTGGTCA-1,3,NK cells,NK cells
+ACAGACACGGCATT-1,0,T cells,T cells
+ACAGACACGTTGTG-1,0,T cells,T cells
+ACAGCAACACCTAG-1,2,Monocytes,Monocytes
+ACAGCAACCTCAAG-1,4,Monocytes,Monocytes
+ACAGGTACCCCACT-1,0,T cells,T cells
+ACAGGTACGCTGTA-1,3,NK cells,NK cells
+ACAGGTACTGGTGT-1,3,NK cells,NK cells
+ACAGTCGACCCAAA-1,0,T cells,T cells
+ACAGTCGACCGATA-1,3,NK cells,NK cells
+ACAGTGACTCACCC-1,3,NK cells,NK cells
+ACAGTGACTCTATC-1,3,NK cells,NK cells
+ACAGTGTGGTCACA-1,0,T cells,T cells
+ACAGTGTGTTGCGA-1,2,Monocytes,Monocytes
+ACATCACTCTACTT-1,2,Monocytes,Monocytes
+ACATGGTGAAGCCT-1,0,T cells,T cells
+ACATGGTGCAACCA-1,1,B cells,B cells
+ACATGGTGCGAGTT-1,0,T cells,T cells
+ACATGGTGCGTTGA-1,3,NK cells,NK cells
+ACATTCTGGCATAC-1,0,T cells,T cells
+ACATTCTGGGAACG-1,2,Monocytes,Monocytes
+ACCAACGACATGCA-1,0,T cells,T cells
+ACCACAGAAAGTAG-1,0,T cells,T cells
+ACCACAGAGTTGGT-1,0,T cells,T cells
+ACCACCTGTGTGCA-1,0,T cells,T cells
+ACCACGCTACAGCT-1,0,T cells,T cells
+ACCACGCTACCCAA-1,3,NK cells,NK cells
+ACCACGCTGCGAGA-1,0,T cells,T cells
+ACCACGCTGCTGTA-1,0,T cells,T cells
+ACCAGCCTGACAGG-1,0,T cells,T cells
+ACCAGTGAACGGTT-1,1,B cells,B cells
+ACCAGTGAATACCG-1,4,Monocytes,Monocytes
+ACCAGTGAGGGATG-1,0,T cells,T cells
+ACCAGTGATGACTG-1,2,Monocytes,Monocytes
+ACCATTACCTTCTA-1,0,T cells,T cells
+ACCATTACGAGATA-1,0,T cells,T cells
+ACCATTTGTCATTC-1,0,T cells,T cells
+ACCCAAGAACTGTG-1,3,NK cells,NK cells
+ACCCAAGAATTCCT-1,4,Monocytes,Monocytes
+ACCCAAGAGGACAG-1,0,T cells,T cells
+ACCCAAGATTCACT-1,1,B cells,B cells
+ACCCACTGCGCCTT-1,2,Monocytes,Monocytes
+ACCCACTGGACAGG-1,0,T cells,T cells
+ACCCACTGGTTCAG-1,6,Monocytes,Unknown
+ACCCACTGTCGTAG-1,2,Monocytes,Monocytes
+ACCCAGCTCAGAAA-1,0,T cells,T cells
+ACCCAGCTGTTAGC-1,2,Monocytes,Monocytes
+ACCCAGCTTGCTTT-1,0,T cells,T cells
+ACCCGTTGATGACC-1,1,B cells,B cells
+ACCCGTTGCTGCAA-1,0,T cells,T cells
+ACCCGTTGCTTCTA-1,5,Monocytes,Unknown
+ACCCTCGACCTATT-1,0,T cells,T cells
+ACCCTCGACGGTAT-1,1,B cells,B cells
+ACCCTCGATAAGGA-1,2,Monocytes,Monocytes
+ACCCTCGATCAAGC-1,2,Monocytes,Monocytes
+ACCGTGCTACCAGT-1,0,T cells,T cells
+ACCGTGCTGGAACG-1,1,B cells,B cells
+ACCTATTGCTGAGT-1,1,B cells,B cells
+ACCTATTGTGCCCT-1,4,Monocytes,Monocytes
+ACCTCCGAGTCCTC-1,0,T cells,T cells
+ACCTCCGATATGCG-1,0,T cells,T cells
+ACCTCCGATGCTGA-1,0,T cells,T cells
+ACCTCGTGAACCAC-1,3,NK cells,NK cells
+ACCTGAGATATCGG-1,6,Monocytes,Unknown
+ACCTGGCTAAGTAG-1,3,NK cells,NK cells
+ACCTGGCTGTCTTT-1,2,Monocytes,Monocytes
+ACCTTTGACTCCCA-1,2,Monocytes,Monocytes
+ACCTTTGAGGAACG-1,2,Monocytes,Monocytes
+ACCTTTGAGGAAGC-1,4,Monocytes,Monocytes
+ACGAACACCTTGTT-1,3,NK cells,NK cells
+ACGAACTGGCTATG-1,6,Monocytes,Unknown
+ACGAAGCTCTCCAC-1,0,T cells,T cells
+ACGAAGCTCTGAGT-1,1,B cells,B cells
+ACGACCCTATCTCT-1,4,Monocytes,Monocytes
+ACGACCCTGATGAA-1,0,T cells,T cells
+ACGACCCTTGACAC-1,1,B cells,B cells
+ACGACCCTTGACCA-1,0,T cells,T cells
+ACGAGGGACAGGAG-1,5,Monocytes,Unknown
+ACGAGGGACGAACT-1,0,T cells,T cells
+ACGAGGGATGTAGC-1,0,T cells,T cells
+ACGAGTACCCTAAG-1,1,B cells,B cells
+ACGAGTACGAATCC-1,1,B cells,B cells
+ACGATCGAGGACTT-1,3,NK cells,NK cells
+ACGATCGAGTCACA-1,2,Monocytes,Monocytes
+ACGATGACAATGCC-1,0,T cells,T cells
+ACGATGACTGGTCA-1,0,T cells,T cells
+ACGATTCTACGGGA-1,3,NK cells,NK cells
+ACGCAATGGTTCAG-1,3,NK cells,NK cells
+ACGCACCTGTTAGC-1,1,B cells,B cells
+ACGCCACTGAACTC-1,2,Monocytes,Monocytes
+ACGCCGGAAACCAC-1,2,Monocytes,Monocytes
+ACGCCGGAAAGCCT-1,0,T cells,T cells
+ACGCCGGAAATGCC-1,0,T cells,T cells
+ACGCCTTGCTCCCA-1,4,Monocytes,Monocytes
+ACGCGGTGGCGAGA-1,0,T cells,T cells
+ACGCGGTGTGTGGT-1,1,B cells,B cells
+ACGCGGTGTTTGCT-1,3,NK cells,NK cells
+ACGCTCACAGTACC-1,0,T cells,T cells
+ACGCTCACCCTTGC-1,0,T cells,T cells
+ACGCTGCTGTTCTT-1,3,NK cells,NK cells
+ACGGAACTCAGATC-1,3,NK cells,NK cells
+ACGGAACTGTCGTA-1,4,Monocytes,Monocytes
+ACGGAGGACTCTTA-1,2,Monocytes,Monocytes
+ACGGATTGGGAGGT-1,1,B cells,B cells
+ACGGATTGGTTAGC-1,0,T cells,T cells
+ACGGCTCTGAGCAG-1,0,T cells,T cells
+ACGGCTCTTGCACA-1,0,T cells,T cells
+ACGGTAACCGCTAA-1,0,T cells,T cells
+ACGGTAACCTTCGC-1,3,NK cells,NK cells
+ACGGTAACGGTGGA-1,0,T cells,T cells
+ACGGTAACTCGCAA-1,3,NK cells,NK cells
+ACGGTATGAGTCGT-1,2,Monocytes,Monocytes
+ACGGTATGGGTATC-1,1,B cells,B cells
+ACGGTATGGTTGTG-1,1,B cells,B cells
+ACGGTCCTAACGGG-1,0,T cells,T cells
+ACGGTCCTCGGGAA-1,0,T cells,T cells
+ACGTAGACAACCAC-1,0,T cells,T cells
+ACGTAGACTACAGC-1,1,B cells,B cells
+ACGTCAGAAACGAA-1,0,T cells,T cells
+ACGTCAGAGAGCTT-1,2,Monocytes,Monocytes
+ACGTCAGAGGGATG-1,0,T cells,T cells
+ACGTCCTGATAAGG-1,2,Monocytes,Monocytes
+ACGTCCTGTGAACC-1,2,Monocytes,Monocytes
+ACGTCGCTCCTGAA-1,3,NK cells,NK cells
+ACGTCGCTCTATTC-1,2,Monocytes,Monocytes
+ACGTCGCTTCTCAT-1,1,B cells,B cells
+ACGTGATGCCATGA-1,5,Monocytes,Unknown
+ACGTGATGGGTCTA-1,0,T cells,T cells
+ACGTGATGTAACCG-1,4,Monocytes,Monocytes
+ACGTGATGTGACAC-1,3,NK cells,NK cells
+ACGTGCCTCCGTAA-1,0,T cells,T cells
+ACGTGCCTTCTATC-1,3,NK cells,NK cells
+ACGTTACTTTCCAT-1,0,T cells,T cells
+ACGTTGGAAAAGCA-1,0,T cells,T cells
+ACGTTGGAAACCTG-1,3,NK cells,NK cells
+ACGTTGGACCGTAA-1,2,Monocytes,Monocytes
+ACGTTGGAGCCAAT-1,3,NK cells,NK cells
+ACGTTGGATATGGC-1,1,B cells,B cells
+ACGTTGGATCAGGT-1,2,Monocytes,Monocytes
+ACGTTTACATCAGC-1,0,T cells,T cells
+ACTAAAACCCACAA-1,0,T cells,T cells
+ACTAAAACTCGACA-1,2,Monocytes,Monocytes
+ACTACGGAATTTCC-1,0,T cells,T cells
+ACTACGGACCTATT-1,0,T cells,T cells
+ACTACGGATCGCTC-1,0,T cells,T cells
+ACTACTACTAAGGA-1,0,T cells,T cells
+ACTAGGTGGAACCT-1,0,T cells,T cells
+ACTAGGTGGAACTC-1,0,T cells,T cells
+ACTATCACCTTGGA-1,3,NK cells,NK cells
+ACTATCACTGCCAA-1,0,T cells,T cells
+ACTCAGGACTGAAC-1,0,T cells,T cells
+ACTCAGGATCTATC-1,1,B cells,B cells
+ACTCAGGATTCGTT-1,2,Monocytes,Monocytes
+ACTCCTCTCAACTG-1,0,T cells,T cells
+ACTCGCACGAAAGT-1,2,Monocytes,Monocytes
+ACTCGCACTACGAC-1,2,Monocytes,Monocytes
+ACTCTCCTGACACT-1,0,T cells,T cells
+ACTCTCCTGCATAC-1,0,T cells,T cells
+ACTCTCCTGTTTGG-1,0,T cells,T cells
+ACTGAGACAACCAC-1,3,NK cells,NK cells
+ACTGAGACCCATAG-1,4,Monocytes,Monocytes
+ACTGAGACGTTGGT-1,1,B cells,B cells
+ACTGCCACACACGT-1,3,NK cells,NK cells
+ACTGCCACTCCGTC-1,3,NK cells,NK cells
+ACTGGCCTTCAGTG-1,3,NK cells,NK cells
+ACTGTGGACGTGTA-1,3,NK cells,NK cells
+ACTGTGGATCTAGG-1,1,B cells,B cells
+ACTGTTACCCACAA-1,2,Monocytes,Monocytes
+ACTGTTACTGCAGT-1,0,T cells,T cells
+ACTTAAGAACCACA-1,0,T cells,T cells
+ACTTAAGACCACAA-1,0,T cells,T cells
+ACTTAAGATTACTC-1,5,Monocytes,Unknown
+ACTTAGCTGCGTAT-1,4,Monocytes,Monocytes
+ACTTAGCTGGGAGT-1,0,T cells,T cells
+ACTTCAACAAGCAA-1,3,NK cells,NK cells
+ACTTCAACGTAGGG-1,3,NK cells,NK cells
+ACTTCCCTTTCCGC-1,0,T cells,T cells
+ACTTCTGACATGCA-1,1,B cells,B cells
+ACTTGACTCCACAA-1,1,B cells,B cells
+ACTTGGGAGAAAGT-1,2,Monocytes,Monocytes
+ACTTGGGAGGTTTG-1,0,T cells,T cells
+ACTTGGGATGTGAC-1,2,Monocytes,Monocytes
+ACTTGGGATTGACG-1,2,Monocytes,Monocytes
+ACTTGTACCCGAAT-1,0,T cells,T cells
+ACTTGTACCTGTCC-1,0,T cells,T cells
+ACTTTGTGCGATAC-1,0,T cells,T cells
+ACTTTGTGGAAAGT-1,0,T cells,T cells
+ACTTTGTGGATAGA-1,2,Monocytes,Monocytes
+AGAAACGAAAGTAG-1,1,B cells,B cells
+AGAAAGTGCGCAAT-1,0,T cells,T cells
+AGAAAGTGGGGATG-1,2,Monocytes,Monocytes
+AGAACAGAAATGCC-1,3,NK cells,NK cells
+AGAACAGACGACTA-1,1,B cells,B cells
+AGAACAGAGACAAA-1,0,T cells,T cells
+AGAACGCTTTGCTT-1,0,T cells,T cells
+AGAAGATGTGACTG-1,0,T cells,T cells
+AGAATGGAAGAAGT-1,3,NK cells,NK cells
+AGAATTTGTAACCG-1,0,T cells,T cells
+AGAATTTGTAGAGA-1,0,T cells,T cells
+AGACACACTGTAGC-1,0,T cells,T cells
+AGACACTGTCAAGC-1,2,Monocytes,Monocytes
+AGACCTGAAGTAGA-1,2,Monocytes,Monocytes
+AGACCTGACCAACA-1,0,T cells,T cells
+AGACCTGAGGAAGC-1,3,NK cells,NK cells
+AGACGTACAGAGGC-1,0,T cells,T cells
+AGACGTACCCCTAC-1,1,B cells,B cells
+AGACGTACCTCTTA-1,2,Monocytes,Monocytes
+AGACGTACTCGTGA-1,4,Monocytes,Monocytes
+AGACTGACCATCAG-1,3,NK cells,NK cells
+AGACTGACCCTTTA-1,0,T cells,T cells
+AGACTTCTCATGCA-1,1,B cells,B cells
+AGAGATGACAGTCA-1,1,B cells,B cells
+AGAGATGACTGAAC-1,0,T cells,T cells
+AGAGATGAGGTTTG-1,2,Monocytes,Monocytes
+AGAGATGATCTCGC-1,1,B cells,B cells
+AGAGATGATTGTGG-1,0,T cells,T cells
+AGAGCGGAGGCAAG-1,2,Monocytes,Monocytes
+AGAGGTCTACAGCT-1,3,NK cells,NK cells
+AGAGTCTGGTCGTA-1,4,Monocytes,Monocytes
+AGAGTGCTCAGCTA-1,0,T cells,T cells
+AGAGTGCTCGAATC-1,0,T cells,T cells
+AGAGTGCTGTCATG-1,0,T cells,T cells
+AGAGTGCTGTCCTC-1,3,NK cells,NK cells
+AGAGTGCTGTGTTG-1,1,B cells,B cells
+AGATATACCCGTAA-1,3,NK cells,NK cells
+AGATATACGATGAA-1,0,T cells,T cells
+AGATATACTGTTCT-1,1,B cells,B cells
+AGATATTGCCTACC-1,3,NK cells,NK cells
+AGATATTGGCCAAT-1,2,Monocytes,Monocytes
+AGATCGTGTCTGGA-1,2,Monocytes,Monocytes
+AGATCGTGTTTGTC-1,1,B cells,B cells
+AGATCTCTATCACG-1,1,B cells,B cells
+AGATTAACGTTCTT-1,4,Monocytes,Monocytes
+AGATTCCTATCGTG-1,0,T cells,T cells
+AGATTCCTCACTTT-1,2,Monocytes,Monocytes
+AGATTCCTGACGAG-1,2,Monocytes,Monocytes
+AGATTCCTGTTCAG-1,3,NK cells,NK cells
+AGCAAAGATATGCG-1,0,T cells,T cells
+AGCACAACAGTCTG-1,0,T cells,T cells
+AGCACTGAGGGAGT-1,0,T cells,T cells
+AGCACTGATATGCG-1,0,T cells,T cells
+AGCACTGATGCTTT-1,5,Monocytes,Unknown
+AGCACTGATTGCGA-1,0,T cells,T cells
+AGCATCGAAGATCC-1,0,T cells,T cells
+AGCATCGAAGGGTG-1,1,B cells,B cells
+AGCATCGAGCTTCC-1,2,Monocytes,Monocytes
+AGCATCGAGTGAGG-1,0,T cells,T cells
+AGCATCGATAACCG-1,2,Monocytes,Monocytes
+AGCATGACGATGAA-1,3,NK cells,NK cells
+AGCCAATGGGGAGT-1,4,Monocytes,Monocytes
+AGCCAATGTATCTC-1,0,T cells,T cells
+AGCCACCTGGATCT-1,3,NK cells,NK cells
+AGCCGGTGCCAATG-1,0,T cells,T cells
+AGCCGGTGTGTTTC-1,0,T cells,T cells
+AGCCGTCTCAATCG-1,0,T cells,T cells
+AGCCGTCTGAGAGC-1,0,T cells,T cells
+AGCCTCACGTTCGA-1,0,T cells,T cells
+AGCCTCACTGTCAG-1,4,Monocytes,Monocytes
+AGCCTCTGCAGTTG-1,1,B cells,B cells
+AGCCTCTGCCAATG-1,3,NK cells,NK cells
+AGCGAACTGGATCT-1,0,T cells,T cells
+AGCGAACTTACTGG-1,0,T cells,T cells
+AGCGATACGGAGCA-1,0,T cells,T cells
+AGCGATTGAGATCC-1,3,NK cells,NK cells
+AGCGCCGAATCTCT-1,0,T cells,T cells
+AGCGCCGACAGAGG-1,0,T cells,T cells
+AGCGCTCTACCTTT-1,0,T cells,T cells
+AGCGGCACCGGGAA-1,0,T cells,T cells
+AGCGGCTGATGTGC-1,0,T cells,T cells
+AGCGGGCTTGCCAA-1,0,T cells,T cells
+AGCGTAACATGCTG-1,0,T cells,T cells
+AGCGTAACTGAGAA-1,2,Monocytes,Monocytes
+AGCTCGCTACTGGT-1,0,T cells,T cells
+AGCTCGCTCTGCTC-1,0,T cells,T cells
+AGCTGAACCATACG-1,4,Monocytes,Monocytes
+AGCTGAACCTCTCG-1,0,T cells,T cells
+AGCTGCCTTGGGAG-1,2,Monocytes,Monocytes
+AGCTGCCTTTCATC-1,0,T cells,T cells
+AGCTGCCTTTCTGT-1,0,T cells,T cells
+AGCTGTGATCCAAG-1,0,T cells,T cells
+AGCTTTACAAGTAG-1,0,T cells,T cells
+AGCTTTACACCAAC-1,3,NK cells,NK cells
+AGCTTTACTCTCAT-1,1,B cells,B cells
+AGGAAATGAGGAGC-1,0,T cells,T cells
+AGGAACCTCTTAGG-1,4,Monocytes,Monocytes
+AGGAACCTTGCCTC-1,3,NK cells,NK cells
+AGGAATGATAACGC-1,0,T cells,T cells
+AGGAATGATTTGTC-1,0,T cells,T cells
+AGGAGTCTGGTTTG-1,0,T cells,T cells
+AGGAGTCTTGTCAG-1,0,T cells,T cells
+AGGATAGACATTTC-1,0,T cells,T cells
+AGGATAGAGGATTC-1,3,NK cells,NK cells
+AGGATGCTACTAGC-1,1,B cells,B cells
+AGGATGCTTTAGGC-1,3,NK cells,NK cells
+AGGCAACTGAAGGC-1,0,T cells,T cells
+AGGCAGGAGTACCA-1,3,NK cells,NK cells
+AGGCCTCTAGTCGT-1,0,T cells,T cells
+AGGCCTCTCGGAGA-1,0,T cells,T cells
+AGGCCTCTCGTAAC-1,0,T cells,T cells
+AGGGACGACGTTGA-1,0,T cells,T cells
+AGGGACGAGTCAAC-1,3,NK cells,NK cells
+AGGGACGAGTTGTG-1,0,T cells,T cells
+AGGGACGATAGAGA-1,3,NK cells,NK cells
+AGGGACGATGCATG-1,3,NK cells,NK cells
+AGGGAGTGAGCCTA-1,0,T cells,T cells
+AGGGCCACCATACG-1,0,T cells,T cells
+AGGGCGCTAACCAC-1,2,Monocytes,Monocytes
+AGGGCGCTATGGTC-1,0,T cells,T cells
+AGGGTGGACAGTCA-1,1,B cells,B cells
+AGGGTGGACTCAAG-1,2,Monocytes,Monocytes
+AGGGTGGAGTTGCA-1,3,NK cells,NK cells
+AGGGTTTGTTCATC-1,2,Monocytes,Monocytes
+AGGTCATGAGTGTC-1,1,B cells,B cells
+AGGTCATGCTTATC-1,3,NK cells,NK cells
+AGGTCTGATTCTCA-1,4,Monocytes,Monocytes
+AGGTGGGAAGAATG-1,0,T cells,T cells
+AGGTGGGAAGTTCG-1,0,T cells,T cells
+AGGTGTTGGTTACG-1,1,B cells,B cells
+AGGTTCGAACCTCC-1,2,Monocytes,Monocytes
+AGGTTCGAACGTAC-1,2,Monocytes,Monocytes
+AGGTTCGAGGGTGA-1,0,T cells,T cells
+AGTAAGGAGTTTGG-1,0,T cells,T cells
+AGTAAGGATTCTTG-1,0,T cells,T cells
+AGTAATACATCACG-1,3,NK cells,NK cells
+AGTAATACCGAACT-1,1,B cells,B cells
+AGTAATTGTCCCAC-1,0,T cells,T cells
+AGTACGTGAGGGTG-1,0,T cells,T cells
+AGTACGTGCTGCAA-1,0,T cells,T cells
+AGTACGTGCTTGGA-1,0,T cells,T cells
+AGTACTCTACGTGT-1,1,B cells,B cells
+AGTACTCTCAACCA-1,3,NK cells,NK cells
+AGTACTCTCGGTAT-1,0,T cells,T cells
+AGTAGGCTTGCCTC-1,4,Monocytes,Monocytes
+AGTATAACTTGTCT-1,4,Monocytes,Monocytes
+AGTATCCTAGAACA-1,0,T cells,T cells
+AGTCACGATGAGCT-1,3,NK cells,NK cells
+AGTCAGACGAATAG-1,0,T cells,T cells
+AGTCAGACGCTTAG-1,0,T cells,T cells
+AGTCAGACTAGAGA-1,3,NK cells,NK cells
+AGTCAGACTGCACA-1,0,T cells,T cells
+AGTCCAGATATCTC-1,0,T cells,T cells
+AGTCCAGATTTCAC-1,0,T cells,T cells
+AGTCGAACCAACCA-1,0,T cells,T cells
+AGTCGCCTCCGTAA-1,0,T cells,T cells
+AGTCTACTAGGGTG-1,2,Monocytes,Monocytes
+AGTCTACTTGCATG-1,4,Monocytes,Monocytes
+AGTCTTACACCACA-1,0,T cells,T cells
+AGTCTTACTTCGCC-1,3,NK cells,NK cells
+AGTCTTACTTCGGA-1,6,Monocytes,Unknown
+AGTGACTGCAACTG-1,4,Monocytes,Monocytes
+AGTGTTCTAACCTG-1,0,T cells,T cells
+AGTGTTCTATAAGG-1,0,T cells,T cells
+AGTGTTCTCACTTT-1,2,Monocytes,Monocytes
+AGTTAAACCACTTT-1,0,T cells,T cells
+AGTTATGAACAGTC-1,2,Monocytes,Monocytes
+AGTTATGACTGAGT-1,0,T cells,T cells
+AGTTATGAGTTCAG-1,0,T cells,T cells
+AGTTCTACCAGCTA-1,2,Monocytes,Monocytes
+AGTTCTTGAAGCCT-1,3,NK cells,NK cells
+AGTTGTCTACTACG-1,0,T cells,T cells
+AGTTTAGATGGTCA-1,0,T cells,T cells
+AGTTTCACGGTCTA-1,3,NK cells,NK cells
+AGTTTGCTACAGTC-1,0,T cells,T cells
+AGTTTGCTACTGGT-1,3,NK cells,NK cells
+AGTTTGCTCCAAGT-1,0,T cells,T cells
+ATAAACACAGTGCT-1,1,B cells,B cells
+ATAAACACCACCAA-1,0,T cells,T cells
+ATAACAACATGCTG-1,2,Monocytes,Monocytes
+ATAACAACGTCTAG-1,0,T cells,T cells
+ATAACAACTTTGTC-1,0,T cells,T cells
+ATAACATGTACTCT-1,0,T cells,T cells
+ATAACCCTGTTGGT-1,0,T cells,T cells
+ATAACCCTTGGTAC-1,0,T cells,T cells
+ATAAGTACGAATGA-1,1,B cells,B cells
+ATAAGTTGGTACGT-1,4,Monocytes,Monocytes
+ATAAGTTGTCTAGG-1,0,T cells,T cells
+ATAATCGAGCTGAT-1,1,B cells,B cells
+ATAATCGATGGTTG-1,0,T cells,T cells
+ATAATGACCTACTT-1,0,T cells,T cells
+ATAATGACTCGTGA-1,2,Monocytes,Monocytes
+ATACAATGTTAGGC-1,0,T cells,T cells
+ATACCACTCGTACA-1,2,Monocytes,Monocytes
+ATACCACTCTAAGC-1,5,Monocytes,Unknown
+ATACCACTGCCAAT-1,3,NK cells,NK cells
+ATACCGGAATGCTG-1,5,Monocytes,Unknown
+ATACCGGACATTTC-1,2,Monocytes,Monocytes
+ATACCGGACTTCGC-1,0,T cells,T cells
+ATACCGGAGGTGTT-1,2,Monocytes,Monocytes
+ATACCGGATCTCGC-1,0,T cells,T cells
+ATACCTACGCATCA-1,0,T cells,T cells
+ATACCTTGGGGCAA-1,0,T cells,T cells
+ATACGGACAGACTC-1,2,Monocytes,Monocytes
+ATACGGACCTACTT-1,2,Monocytes,Monocytes
+ATACGGACGAGGTG-1,1,B cells,B cells
+ATACGGACTATGCG-1,1,B cells,B cells
+ATACGGACTCTGGA-1,2,Monocytes,Monocytes
+ATACGTCTTAACGC-1,2,Monocytes,Monocytes
+ATACTCTGCTTCGC-1,2,Monocytes,Monocytes
+ATACTCTGGTATGC-1,3,NK cells,NK cells
+ATAGATACCATGGT-1,0,T cells,T cells
+ATAGATACGACGAG-1,0,T cells,T cells
+ATAGATTGGTGTAC-1,1,B cells,B cells
+ATAGCCGAACGGAG-1,0,T cells,T cells
+ATAGCGTGCAGATC-1,0,T cells,T cells
+ATAGCGTGCCCTTG-1,2,Monocytes,Monocytes
+ATAGCGTGGTATCG-1,2,Monocytes,Monocytes
+ATAGCGTGTCTCTA-1,0,T cells,T cells
+ATAGCTCTCTGATG-1,0,T cells,T cells
+ATAGCTCTGAGGTG-1,0,T cells,T cells
+ATAGGAGAAACAGA-1,2,Monocytes,Monocytes
+ATAGGCTGTCAGAC-1,0,T cells,T cells
+ATAGTCCTAGTGTC-1,2,Monocytes,Monocytes
+ATAGTCCTTGCATG-1,3,NK cells,NK cells
+ATAGTCCTTGTCGA-1,0,T cells,T cells
+ATAGTTGACAACTG-1,0,T cells,T cells
+ATAGTTGACCCTCA-1,4,Monocytes,Monocytes
+ATAGTTGAGACGTT-1,0,T cells,T cells
+ATAGTTGATAAGCC-1,0,T cells,T cells
+ATATACGAAGCCAT-1,0,T cells,T cells
+ATATACGAATTGGC-1,0,T cells,T cells
+ATATAGTGGAATGA-1,2,Monocytes,Monocytes
+ATATGCCTAGATCC-1,2,Monocytes,Monocytes
+ATATGCCTGGACAG-1,0,T cells,T cells
+ATATGCCTTCTCTA-1,0,T cells,T cells
+ATATGCCTTGGTAC-1,0,T cells,T cells
+ATCAAATGAGCCTA-1,2,Monocytes,Monocytes
+ATCAAATGGGTAAA-1,4,Monocytes,Monocytes
+ATCAACCTAAACGA-1,0,T cells,T cells
+ATCAACCTGAGGAC-1,0,T cells,T cells
+ATCAACCTTCTCTA-1,3,NK cells,NK cells
+ATCAACCTTTGTCT-1,3,NK cells,NK cells
+ATCACACTTTGTCT-1,0,T cells,T cells
+ATCACGGATTGCTT-1,2,Monocytes,Monocytes
+ATCACGGATTTCGT-1,1,B cells,B cells
+ATCATCTGACACCA-1,6,Monocytes,Unknown
+ATCATGCTAGAGTA-1,3,NK cells,NK cells
+ATCATGCTGAACCT-1,1,B cells,B cells
+ATCCAGGACGCTAA-1,4,Monocytes,Monocytes
+ATCCAGGATGGAAA-1,0,T cells,T cells
+ATCCATACTCCTTA-1,2,Monocytes,Monocytes
+ATCCATACTTCATC-1,4,Monocytes,Monocytes
+ATCCCGTGCAGTCA-1,3,NK cells,NK cells
+ATCCCGTGCATGCA-1,1,B cells,B cells
+ATCCCGTGGCTGAT-1,1,B cells,B cells
+ATCCGCACGCATCA-1,1,B cells,B cells
+ATCCTAACGACGGA-1,1,B cells,B cells
+ATCCTAACGCTACA-1,0,T cells,T cells
+ATCGACGAAACTGC-1,2,Monocytes,Monocytes
+ATCGACGAATGACC-1,0,T cells,T cells
+ATCGAGTGGACGTT-1,3,NK cells,NK cells
+ATCGCAGAATCTCT-1,4,Monocytes,Monocytes
+ATCGCAGAGTGTCA-1,1,B cells,B cells
+ATCGCCACTGAGGG-1,3,NK cells,NK cells
+ATCGCCTGGGTCAT-1,0,T cells,T cells
+ATCGCCTGTGGCAT-1,1,B cells,B cells
+ATCGCGCTCAGAGG-1,2,Monocytes,Monocytes
+ATCGCGCTGGGATG-1,0,T cells,T cells
+ATCGCGCTTTTCGT-1,1,B cells,B cells
+ATCGGAACCAGTCA-1,0,T cells,T cells
+ATCGGTGAGTCAAC-1,0,T cells,T cells
+ATCGGTGATTGCAG-1,0,T cells,T cells
+ATCGTTTGCCTACC-1,2,Monocytes,Monocytes
+ATCGTTTGGGTACT-1,2,Monocytes,Monocytes
+ATCGTTTGTGCCAA-1,2,Monocytes,Monocytes
+ATCTACACCCGCTT-1,2,Monocytes,Monocytes
+ATCTACACCGGGAA-1,0,T cells,T cells
+ATCTCAACAGGAGC-1,1,B cells,B cells
+ATCTCAACCTCGAA-1,0,T cells,T cells
+ATCTCAACCTTGTT-1,2,Monocytes,Monocytes
+ATCTGGGAAACCAC-1,2,Monocytes,Monocytes
+ATCTGGGAAGTGTC-1,2,Monocytes,Monocytes
+ATCTGGGATTCCGC-1,0,T cells,T cells
+ATCTGTTGAACGGG-1,0,T cells,T cells
+ATCTGTTGACCTCC-1,0,T cells,T cells
+ATCTGTTGCCTTCG-1,4,Monocytes,Monocytes
+ATCTGTTGGTTGCA-1,0,T cells,T cells
+ATCTTGACACCAAC-1,0,T cells,T cells
+ATCTTGACCTCCCA-1,2,Monocytes,Monocytes
+ATCTTTCTGCATCA-1,0,T cells,T cells
+ATCTTTCTGTTTCT-1,3,NK cells,NK cells
+ATCTTTCTTGTCCC-1,3,NK cells,NK cells
+ATGAAACTCTGTGA-1,0,T cells,T cells
+ATGAAACTGAGGCA-1,0,T cells,T cells
+ATGAAGGAACAGCT-1,3,NK cells,NK cells
+ATGAAGGACCTGTC-1,1,B cells,B cells
+ATGAAGGACCTTAT-1,1,B cells,B cells
+ATGAAGGACTAGTG-1,1,B cells,B cells
+ATGAAGGACTTGCC-1,3,NK cells,NK cells
+ATGACGTGACGACT-1,1,B cells,B cells
+ATGACGTGATCGGT-1,2,Monocytes,Monocytes
+ATGAGAGAAAGTGA-1,0,T cells,T cells
+ATGAGAGAACGCAT-1,0,T cells,T cells
+ATGAGAGAAGTAGA-1,1,B cells,B cells
+ATGAGCACACAGCT-1,0,T cells,T cells
+ATGAGCACATCTTC-1,0,T cells,T cells
+ATGATAACTTCACT-1,3,NK cells,NK cells
+ATGATATGAAACAG-1,0,T cells,T cells
+ATGATATGACTGGT-1,0,T cells,T cells
+ATGATATGAGCACT-1,0,T cells,T cells
+ATGATATGGTCATG-1,0,T cells,T cells
+ATGATATGGTGCTA-1,3,NK cells,NK cells
+ATGATATGTTGTCT-1,2,Monocytes,Monocytes
+ATGCACGAATGTCG-1,1,B cells,B cells
+ATGCACGACTGTAG-1,0,T cells,T cells
+ATGCACGAGAACCT-1,1,B cells,B cells
+ATGCACGAGTTCGA-1,0,T cells,T cells
+ATGCACGATTGGTG-1,2,Monocytes,Monocytes
+ATGCAGTGTTACCT-1,1,B cells,B cells
+ATGCAGTGTTCTAC-1,0,T cells,T cells
+ATGCCAGAACGACT-1,0,T cells,T cells
+ATGCCAGACAGTCA-1,2,Monocytes,Monocytes
+ATGCCGCTTGAACC-1,2,Monocytes,Monocytes
+ATGCGATGCTATGG-1,2,Monocytes,Monocytes
+ATGCGATGCTGAGT-1,0,T cells,T cells
+ATGCGATGGTTACG-1,1,B cells,B cells
+ATGCGCCTTCATTC-1,0,T cells,T cells
+ATGCTTTGCGAATC-1,0,T cells,T cells
+ATGCTTTGGGCGAA-1,3,NK cells,NK cells
+ATGCTTTGTAGTCG-1,1,B cells,B cells
+ATGGACACATCGGT-1,0,T cells,T cells
+ATGGACACGCATCA-1,3,NK cells,NK cells
+ATGGGTACAACCTG-1,1,B cells,B cells
+ATGGGTACATCGGT-1,3,NK cells,NK cells
+ATGGGTACTATTCC-1,0,T cells,T cells
+ATGGGTACTGGGAG-1,0,T cells,T cells
+ATGTAAACACCTCC-1,0,T cells,T cells
+ATGTAAACCCGCTT-1,0,T cells,T cells
+ATGTAAACGGGATG-1,5,Monocytes,Unknown
+ATGTAAACTCTCCG-1,3,NK cells,NK cells
+ATGTAAACTTCACT-1,2,Monocytes,Monocytes
+ATGTACCTCAGTCA-1,0,T cells,T cells
+ATGTACCTTAGTCG-1,0,T cells,T cells
+ATGTACCTTTATCC-1,2,Monocytes,Monocytes
+ATGTACCTTTCACT-1,3,NK cells,NK cells
+ATGTCACTAATGCC-1,2,Monocytes,Monocytes
+ATGTCACTCTGCTC-1,0,T cells,T cells
+ATGTCGGAGGTGAG-1,0,T cells,T cells
+ATGTTCACAGTCTG-1,2,Monocytes,Monocytes
+ATGTTCACCGTAGT-1,0,T cells,T cells
+ATGTTGCTTTCAGG-1,0,T cells,T cells
+ATTAACGATGAGAA-1,3,NK cells,NK cells
+ATTAACGATGCAAC-1,3,NK cells,NK cells
+ATTAAGACTGCAGT-1,0,T cells,T cells
+ATTACCTGCCTTAT-1,2,Monocytes,Monocytes
+ATTACCTGGAGGAC-1,4,Monocytes,Monocytes
+ATTACCTGGGCATT-1,1,B cells,B cells
+ATTAGATGTTTCAC-1,0,T cells,T cells
+ATTATGGAATCTCT-1,0,T cells,T cells
+ATTCAAGAACGGGA-1,0,T cells,T cells
+ATTCAAGACCTTTA-1,0,T cells,T cells
+ATTCAGCTCATTGG-1,6,Monocytes,Unknown
+ATTCCAACCATTGG-1,2,Monocytes,Monocytes
+ATTCCAACTTAGGC-1,3,NK cells,NK cells
+ATTCGACTCACTAG-1,0,T cells,T cells
+ATTCGACTGAATAG-1,2,Monocytes,Monocytes
+ATTCGACTTTTGTC-1,4,Monocytes,Monocytes
+ATTCGGGAAAGGCG-1,2,Monocytes,Monocytes
+ATTCGGGATTAGGC-1,0,T cells,T cells
+ATTCTTCTGATACC-1,0,T cells,T cells
+ATTGAATGGACGGA-1,0,T cells,T cells
+ATTGATGAAGGTTC-1,0,T cells,T cells
+ATTGATGACTGAGT-1,0,T cells,T cells
+ATTGATGAGCGAAG-1,0,T cells,T cells
+ATTGATGATCTATC-1,0,T cells,T cells
+ATTGCACTGACGGA-1,0,T cells,T cells
+ATTGCACTGAGAGC-1,4,Monocytes,Monocytes
+ATTGCACTGGAGCA-1,2,Monocytes,Monocytes
+ATTGCACTTAGCCA-1,0,T cells,T cells
+ATTGCACTTGCTTT-1,4,Monocytes,Monocytes
+ATTGCTTGTTACTC-1,1,B cells,B cells
+ATTGGTCTGACTAC-1,1,B cells,B cells
+ATTGGTCTTGTCTT-1,1,B cells,B cells
+ATTGTAGATTCCCG-1,5,Monocytes,Unknown
+ATTGTAGATTGCAG-1,0,T cells,T cells
+ATTGTCTGCGTACA-1,0,T cells,T cells
+ATTTAGGAACCATG-1,4,Monocytes,Monocytes
+ATTTAGGACAGAGG-1,0,T cells,T cells
+ATTTCCGAGATGAA-1,0,T cells,T cells
+ATTTCCGAGTGCTA-1,0,T cells,T cells
+ATTTCGTGTATGGC-1,3,NK cells,NK cells
+ATTTCTCTACTTTC-1,4,Monocytes,Monocytes
+ATTTCTCTAGCAAA-1,0,T cells,T cells
+ATTTCTCTCACTTT-1,4,Monocytes,Monocytes
+ATTTCTCTTCCCAC-1,0,T cells,T cells
+ATTTGCACAAGATG-1,2,Monocytes,Monocytes
+CAAAGCACAGCTCA-1,0,T cells,T cells
+CAAAGCACCGTAAC-1,1,B cells,B cells
+CAAAGCACGGTAAA-1,3,NK cells,NK cells
+CAAAGCTGAAAGTG-1,0,T cells,T cells
+CAAAGCTGTTGCTT-1,2,Monocytes,Monocytes
+CAAATATGTGACAC-1,0,T cells,T cells
+CAAATTGAGGGCAA-1,0,T cells,T cells
+CAAATTGATGGAGG-1,2,Monocytes,Monocytes
+CAACCAGAAAAGTG-1,0,T cells,T cells
+CAACCAGAAGTGCT-1,0,T cells,T cells
+CAACCAGAGTTCAG-1,2,Monocytes,Monocytes
+CAACCAGATAGAAG-1,2,Monocytes,Monocytes
+CAACCGCTGTTCAG-1,0,T cells,T cells
+CAACCGCTTTGAGC-1,0,T cells,T cells
+CAACGATGCGCAAT-1,4,Monocytes,Monocytes
+CAACGTGACTCCAC-1,2,Monocytes,Monocytes
+CAACGTGAGCCATA-1,3,NK cells,NK cells
+CAACGTGATCAAGC-1,2,Monocytes,Monocytes
+CAAGAAGACCACAA-1,3,NK cells,NK cells
+CAAGAAGACGTCTC-1,2,Monocytes,Monocytes
+CAAGAAGATTCTAC-1,0,T cells,T cells
+CAAGACTGACCTGA-1,1,B cells,B cells
+CAAGACTGAGTAGA-1,1,B cells,B cells
+CAAGCTGACCATAG-1,4,Monocytes,Monocytes
+CAAGCTGATCTATC-1,3,NK cells,NK cells
+CAAGGACTGTTCAG-1,0,T cells,T cells
+CAAGGACTTCTTTG-1,3,NK cells,NK cells
+CAAGGTTGCTCCAC-1,0,T cells,T cells
+CAAGGTTGTCATTC-1,1,B cells,B cells
+CAAGGTTGTCTGGA-1,3,NK cells,NK cells
+CAAGTCGAAACAGA-1,1,B cells,B cells
+CAAGTCGATAGCGT-1,2,Monocytes,Monocytes
+CAATAAACGCCATA-1,2,Monocytes,Monocytes
+CAATAATGAACTGC-1,2,Monocytes,Monocytes
+CAATATGACATGGT-1,0,T cells,T cells
+CAATATGACCTTCG-1,3,NK cells,NK cells
+CAATATGACGTTAG-1,0,T cells,T cells
+CAATATGAGGAGCA-1,0,T cells,T cells
+CAATCGGAGAAACA-1,0,T cells,T cells
+CAATCTACTGACTG-1,3,NK cells,NK cells
+CAATTCACCCAACA-1,3,NK cells,NK cells
+CAATTCACGATAGA-1,0,T cells,T cells
+CAATTCACTTGTGG-1,0,T cells,T cells
+CAATTCTGCTTGTT-1,2,Monocytes,Monocytes
+CAATTCTGGCGTAT-1,2,Monocytes,Monocytes
+CACAACGATACGAC-1,0,T cells,T cells
+CACAATCTTGTTCT-1,3,NK cells,NK cells
+CACAATCTTTCCAT-1,3,NK cells,NK cells
+CACACCTGCTTGAG-1,0,T cells,T cells
+CACACCTGTATGGC-1,0,T cells,T cells
+CACAGAACCCTTGC-1,1,B cells,B cells
+CACAGAACCTGATG-1,0,T cells,T cells
+CACAGATGGGATTC-1,0,T cells,T cells
+CACAGATGGTTTCT-1,2,Monocytes,Monocytes
+CACAGCCTGATACC-1,3,NK cells,NK cells
+CACAGCCTTGCCAA-1,4,Monocytes,Monocytes
+CACAGCCTTGTAGC-1,0,T cells,T cells
+CACAGTGATGAAGA-1,2,Monocytes,Monocytes
+CACATACTACAGCT-1,3,NK cells,NK cells
+CACATGGAACACGT-1,0,T cells,T cells
+CACATGGAAGTCGT-1,0,T cells,T cells
+CACCACTGCCAACA-1,0,T cells,T cells
+CACCACTGGCGAAG-1,3,NK cells,NK cells
+CACCCATGTTCTGT-1,0,T cells,T cells
+CACCGGGAATCGAC-1,0,T cells,T cells
+CACCGGGACGAGAG-1,3,NK cells,NK cells
+CACCGGGACGTGTA-1,0,T cells,T cells
+CACCGGGACTTCTA-1,3,NK cells,NK cells
+CACCGGGACTTGCC-1,3,NK cells,NK cells
+CACCGGGATTCGGA-1,3,NK cells,NK cells
+CACCGTACTAAGGA-1,1,B cells,B cells
+CACCGTACTAGCGT-1,0,T cells,T cells
+CACCTGACACCCAA-1,3,NK cells,NK cells
+CACCTGACCAGAAA-1,0,T cells,T cells
+CACCTGACCTCAAG-1,3,NK cells,NK cells
+CACCTGACGAAAGT-1,1,B cells,B cells
+CACCTGACTCGTAG-1,0,T cells,T cells
+CACGAAACTTCCGC-1,1,B cells,B cells
+CACGACCTCGATAC-1,1,B cells,B cells
+CACGCTACAGAAGT-1,0,T cells,T cells
+CACGCTACTGTTCT-1,1,B cells,B cells
+CACGCTACTTGACG-1,2,Monocytes,Monocytes
+CACGGGACAGAGTA-1,0,T cells,T cells
+CACGGGACATAAGG-1,0,T cells,T cells
+CACGGGACGTAGGG-1,0,T cells,T cells
+CACGGGTGCTTCGC-1,3,NK cells,NK cells
+CACGGGTGGAGGAC-1,3,NK cells,NK cells
+CACGGGTGTGTTTC-1,0,T cells,T cells
+CACTAACTCCTAAG-1,1,B cells,B cells
+CACTAACTGAAAGT-1,0,T cells,T cells
+CACTAGGATGATGC-1,1,B cells,B cells
+CACTATACCCCGTT-1,1,B cells,B cells
+CACTATACGTTTGG-1,3,NK cells,NK cells
+CACTGAGACAGTCA-1,2,Monocytes,Monocytes
+CACTGCACTTCATC-1,0,T cells,T cells
+CACTGCTGAGACTC-1,4,Monocytes,Monocytes
+CACTGCTGGAAAGT-1,0,T cells,T cells
+CACTTAACCGAATC-1,0,T cells,T cells
+CACTTAACCGTACA-1,1,B cells,B cells
+CACTTTGACTCTAT-1,3,NK cells,NK cells
+CACTTTGAGCTGTA-1,0,T cells,T cells
+CAGAAGCTCTCAAG-1,0,T cells,T cells
+CAGACATGAACGGG-1,0,T cells,T cells
+CAGACATGTCGACA-1,0,T cells,T cells
+CAGACCCTAAGGTA-1,4,Monocytes,Monocytes
+CAGACCCTAATGCC-1,0,T cells,T cells
+CAGACCCTAGGAGC-1,0,T cells,T cells
+CAGACTGAGTATGC-1,0,T cells,T cells
+CAGATCGAATGTCG-1,1,B cells,B cells
+CAGATCGACCTGAA-1,0,T cells,T cells
+CAGATCGATATGGC-1,0,T cells,T cells
+CAGATGACATTCTC-1,3,NK cells,NK cells
+CAGCAATGCCTTCG-1,0,T cells,T cells
+CAGCAATGGAGGGT-1,3,NK cells,NK cells
+CAGCAATGGTGCTA-1,0,T cells,T cells
+CAGCAATGTCTACT-1,2,Monocytes,Monocytes
+CAGCAATGTGACCA-1,0,T cells,T cells
+CAGCAATGTGAGGG-1,2,Monocytes,Monocytes
+CAGCACCTAAGCCT-1,0,T cells,T cells
+CAGCACCTAGGCGA-1,0,T cells,T cells
+CAGCACCTGTAGGG-1,2,Monocytes,Monocytes
+CAGCATGACAACCA-1,2,Monocytes,Monocytes
+CAGCATGAGACGTT-1,3,NK cells,NK cells
+CAGCCTACCCAACA-1,0,T cells,T cells
+CAGCCTTGCTACCC-1,2,Monocytes,Monocytes
+CAGCCTTGGGGACA-1,0,T cells,T cells
+CAGCGGACACCCTC-1,0,T cells,T cells
+CAGCGGACCTTTAC-1,3,NK cells,NK cells
+CAGCGTCTAAAGCA-1,0,T cells,T cells
+CAGCGTCTTATCGG-1,0,T cells,T cells
+CAGCTAGATGTGAC-1,2,Monocytes,Monocytes
+CAGCTCTGAGGCGA-1,0,T cells,T cells
+CAGCTCTGCAAGCT-1,3,NK cells,NK cells
+CAGCTCTGTCGTAG-1,2,Monocytes,Monocytes
+CAGCTCTGTGTGGT-1,3,NK cells,NK cells
+CAGGAACTAACTGC-1,3,NK cells,NK cells
+CAGGAACTCTCAGA-1,2,Monocytes,Monocytes
+CAGGCCGAACACCA-1,0,T cells,T cells
+CAGGCCGAACACGT-1,0,T cells,T cells
+CAGGCCGAACGACT-1,0,T cells,T cells
+CAGGCCGAATCTCT-1,2,Monocytes,Monocytes
+CAGGCCGACTAGCA-1,1,B cells,B cells
+CAGGGCACCATACG-1,1,B cells,B cells
+CAGGGCACCCAACA-1,0,T cells,T cells
+CAGGGCACTCCCGT-1,0,T cells,T cells
+CAGGTAACAGACTC-1,2,Monocytes,Monocytes
+CAGGTATGAGTCGT-1,0,T cells,T cells
+CAGGTATGTGCTTT-1,0,T cells,T cells
+CAGGTTGAGGATCT-1,1,B cells,B cells
+CAGTGATGGACGGA-1,1,B cells,B cells
+CAGTGATGGCTAAC-1,3,NK cells,NK cells
+CAGTGATGGGACAG-1,0,T cells,T cells
+CAGTGATGTAAGGA-1,1,B cells,B cells
+CAGTGATGTACGCA-1,1,B cells,B cells
+CAGTGTGAACACGT-1,0,T cells,T cells
+CAGTGTGATGTCAG-1,0,T cells,T cells
+CAGTTACTAAGGTA-1,1,B cells,B cells
+CAGTTACTGATAGA-1,0,T cells,T cells
+CAGTTGGAAAGAGT-1,2,Monocytes,Monocytes
+CAGTTGGACATACG-1,0,T cells,T cells
+CAGTTTACACACGT-1,3,NK cells,NK cells
+CAGTTTACCCCAAA-1,0,T cells,T cells
+CATAAAACGGAGCA-1,2,Monocytes,Monocytes
+CATAAATGAACTGC-1,0,T cells,T cells
+CATAACCTTCTCCG-1,0,T cells,T cells
+CATACTACCTCGAA-1,0,T cells,T cells
+CATACTACCTGAAC-1,0,T cells,T cells
+CATACTACGTACCA-1,2,Monocytes,Monocytes
+CATACTTGGGTTAC-1,4,Monocytes,Monocytes
+CATAGTCTAATCGC-1,0,T cells,T cells
+CATAGTCTCACTTT-1,0,T cells,T cells
+CATATAGACTAAGC-1,5,Monocytes,Unknown
+CATATAGATCAGGT-1,1,B cells,B cells
+CATCAACTAGAAGT-1,0,T cells,T cells
+CATCAACTCCCTCA-1,0,T cells,T cells
+CATCAGGACTTCCG-1,3,NK cells,NK cells
+CATCAGGATAGCCA-1,3,NK cells,NK cells
+CATCAGGATCCTAT-1,4,Monocytes,Monocytes
+CATCAGGATGCACA-1,2,Monocytes,Monocytes
+CATCAGGATTTCGT-1,2,Monocytes,Monocytes
+CATCATACCGCATA-1,2,Monocytes,Monocytes
+CATCATACGGAGCA-1,1,B cells,B cells
+CATCATACTCAAGC-1,0,T cells,T cells
+CATCGCTGGGATCT-1,0,T cells,T cells
+CATCGCTGTGGCAT-1,1,B cells,B cells
+CATCGGCTATGCTG-1,0,T cells,T cells
+CATCGGCTTTGGCA-1,0,T cells,T cells
+CATCTCCTATGTGC-1,1,B cells,B cells
+CATCTCCTCGAACT-1,4,Monocytes,Monocytes
+CATGAGACACGGGA-1,1,B cells,B cells
+CATGAGACGTTGAC-1,3,NK cells,NK cells
+CATGAGACTCGCCT-1,0,T cells,T cells
+CATGCCACGGGTGA-1,0,T cells,T cells
+CATGCCACTGCCAA-1,0,T cells,T cells
+CATGCGCTAGTCAC-1,4,Monocytes,Monocytes
+CATGCGCTCAGATC-1,2,Monocytes,Monocytes
+CATGCGCTTTGCAG-1,4,Monocytes,Monocytes
+CATGGCCTAGGGTG-1,2,Monocytes,Monocytes
+CATGGCCTGTGCAT-1,0,T cells,T cells
+CATGTACTATCGTG-1,3,NK cells,NK cells
+CATGTTACAGTCGT-1,3,NK cells,NK cells
+CATGTTACCTGAGT-1,0,T cells,T cells
+CATGTTTGGGGATG-1,2,Monocytes,Monocytes
+CATTACACACGGAG-1,1,B cells,B cells
+CATTACACCAACTG-1,3,NK cells,NK cells
+CATTACACGGAGTG-1,0,T cells,T cells
+CATTACACTACTCT-1,0,T cells,T cells
+CATTAGCTCCACAA-1,2,Monocytes,Monocytes
+CATTGACTAGCGGA-1,2,Monocytes,Monocytes
+CATTGGGACTCGAA-1,0,T cells,T cells
+CATTGTACAGCGTT-1,0,T cells,T cells
+CATTGTACTCGATG-1,1,B cells,B cells
+CATTGTACTTATCC-1,0,T cells,T cells
+CATTGTACTTTGCT-1,4,Monocytes,Monocytes
+CATTGTTGCTAGTG-1,0,T cells,T cells
+CATTTCGACTCTAT-1,3,NK cells,NK cells
+CATTTCGAGATACC-1,3,NK cells,NK cells
+CATTTGACCACACA-1,3,NK cells,NK cells
+CATTTGACCCTGAA-1,3,NK cells,NK cells
+CATTTGTGACGACT-1,1,B cells,B cells
+CATTTGTGCATTGG-1,0,T cells,T cells
+CATTTGTGCGGAGA-1,0,T cells,T cells
+CATTTGTGGGATCT-1,1,B cells,B cells
+CCAAAGTGCTACGA-1,2,Monocytes,Monocytes
+CCAAAGTGTGAGAA-1,2,Monocytes,Monocytes
+CCAACCTGAAGTAG-1,3,NK cells,NK cells
+CCAACCTGACGTAC-1,2,Monocytes,Monocytes
+CCAACCTGTTCGCC-1,2,Monocytes,Monocytes
+CCAAGAACCCAATG-1,0,T cells,T cells
+CCAAGAACGTAGCT-1,0,T cells,T cells
+CCAAGAACGTGTCA-1,0,T cells,T cells
+CCAAGAACTACTGG-1,3,NK cells,NK cells
+CCAAGAACTCCTAT-1,1,B cells,B cells
+CCAAGATGTCATTC-1,0,T cells,T cells
+CCAAGATGTTTCAC-1,0,T cells,T cells
+CCAAGTGAGGAACG-1,0,T cells,T cells
+CCAAGTGATCAAGC-1,0,T cells,T cells
+CCAATGGAACAGCT-1,2,Monocytes,Monocytes
+CCAATTTGAACGTC-1,2,Monocytes,Monocytes
+CCACCATGAACGTC-1,0,T cells,T cells
+CCACCATGATCGGT-1,0,T cells,T cells
+CCACCATGGACGAG-1,4,Monocytes,Monocytes
+CCACCATGGGGAGT-1,0,T cells,T cells
+CCACCATGTCCTGC-1,3,NK cells,NK cells
+CCACTGACCCGCTT-1,2,Monocytes,Monocytes
+CCACTGTGGGAAGC-1,2,Monocytes,Monocytes
+CCACTGTGTGTAGC-1,0,T cells,T cells
+CCACTTCTCGGGAA-1,2,Monocytes,Monocytes
+CCAGAAACCCTGTC-1,1,B cells,B cells
+CCAGAAACGAACTC-1,0,T cells,T cells
+CCAGAAACGGTCTA-1,0,T cells,T cells
+CCAGACCTCTGAGT-1,2,Monocytes,Monocytes
+CCAGACCTTGTGGT-1,0,T cells,T cells
+CCAGCACTGCGATT-1,4,Monocytes,Monocytes
+CCAGCGGAAAGGCG-1,2,Monocytes,Monocytes
+CCAGCGGACGACTA-1,2,Monocytes,Monocytes
+CCAGCGGATGGGAG-1,0,T cells,T cells
+CCAGCTACACAGTC-1,0,T cells,T cells
+CCAGCTACCAGCTA-1,1,B cells,B cells
+CCAGGTCTACACCA-1,1,B cells,B cells
+CCAGGTCTAGCATC-1,2,Monocytes,Monocytes
+CCAGGTCTATGGTC-1,0,T cells,T cells
+CCAGTCACACTGGT-1,2,Monocytes,Monocytes
+CCAGTCACACTGTG-1,1,B cells,B cells
+CCAGTCACGTTGTG-1,0,T cells,T cells
+CCAGTCTGCGGAGA-1,3,NK cells,NK cells
+CCAGTGCTAACCAC-1,0,T cells,T cells
+CCAGTGCTCGTAGT-1,0,T cells,T cells
+CCATCCGAAAGCAA-1,0,T cells,T cells
+CCATCCGAACGACT-1,3,NK cells,NK cells
+CCATCCGAAGGTTC-1,1,B cells,B cells
+CCATCCGATTCGCC-1,2,Monocytes,Monocytes
+CCATCGTGAACGGG-1,0,T cells,T cells
+CCATCGTGCTAGAC-1,4,Monocytes,Monocytes
+CCCAACACCTCGCT-1,1,B cells,B cells
+CCCAACACGCATCA-1,0,T cells,T cells
+CCCAACACTTTGTC-1,2,Monocytes,Monocytes
+CCCAACTGCAATCG-1,2,Monocytes,Monocytes
+CCCAGACTGCCTTC-1,2,Monocytes,Monocytes
+CCCAGACTGGTTTG-1,1,B cells,B cells
+CCCAGACTTTCGCC-1,4,Monocytes,Monocytes
+CCCAGTTGCAGTTG-1,2,Monocytes,Monocytes
+CCCAGTTGGGTACT-1,0,T cells,T cells
+CCCAGTTGTCTATC-1,1,B cells,B cells
+CCCGATTGTGTTTC-1,0,T cells,T cells
+CCCGGAGAAGGGTG-1,2,Monocytes,Monocytes
+CCCTACGAATTGGC-1,2,Monocytes,Monocytes
+CCCTAGTGCAAAGA-1,0,T cells,T cells
+CCCTCAGACACTTT-1,1,B cells,B cells
+CCCTCAGACGAGAG-1,0,T cells,T cells
+CCCTCAGAGGTCAT-1,0,T cells,T cells
+CCCTGAACTAAAGG-1,1,B cells,B cells
+CCCTGATGCAACCA-1,0,T cells,T cells
+CCCTGATGCAAGCT-1,1,B cells,B cells
+CCCTTACTAACCAC-1,2,Monocytes,Monocytes
+CCCTTACTGCAGTT-1,3,NK cells,NK cells
+CCGAAAACCTTGTT-1,2,Monocytes,Monocytes
+CCGACACTGGTTTG-1,0,T cells,T cells
+CCGACTACCCAGTA-1,2,Monocytes,Monocytes
+CCGACTACCGTGTA-1,0,T cells,T cells
+CCGACTACTGAGGG-1,0,T cells,T cells
+CCGATAGACCTAAG-1,0,T cells,T cells
+CCGATAGAGTTGGT-1,2,Monocytes,Monocytes
+CCGCGAGACACACA-1,2,Monocytes,Monocytes
+CCGCGAGAGGTTCA-1,3,NK cells,NK cells
+CCGCTATGGGACGA-1,1,B cells,B cells
+CCGCTATGTGCAAC-1,2,Monocytes,Monocytes
+CCGCTATGTGCACA-1,2,Monocytes,Monocytes
+CCGGTACTGTCCTC-1,0,T cells,T cells
+CCGTACACAAGCAA-1,0,T cells,T cells
+CCGTACACAGCGTT-1,1,B cells,B cells
+CCGTACACGTCATG-1,3,NK cells,NK cells
+CCGTACACGTTGGT-1,2,Monocytes,Monocytes
+CCGTACACTAACGC-1,3,NK cells,NK cells
+CCTAAACTTTCGTT-1,0,T cells,T cells
+CCTAAGGACCCAAA-1,0,T cells,T cells
+CCTAAGGACTAGCA-1,2,Monocytes,Monocytes
+CCTAAGGAGGGCAA-1,0,T cells,T cells
+CCTAAGGATGATGC-1,0,T cells,T cells
+CCTAAGGATGTCAG-1,0,T cells,T cells
+CCTACCGACTCTTA-1,0,T cells,T cells
+CCTACCGAGGGATG-1,1,B cells,B cells
+CCTAGAGAGGTGAG-1,1,B cells,B cells
+CCTATAACCAAAGA-1,0,T cells,T cells
+CCTATAACGAGACG-1,2,Monocytes,Monocytes
+CCTATAACTCAGAC-1,0,T cells,T cells
+CCTATAACTGCATG-1,2,Monocytes,Monocytes
+CCTCGAACACTTTC-1,3,NK cells,NK cells
+CCTCGAACCCGTAA-1,2,Monocytes,Monocytes
+CCTCGAACGTATCG-1,0,T cells,T cells
+CCTCGAACTTACTC-1,0,T cells,T cells
+CCTCTACTCTTCGC-1,2,Monocytes,Monocytes
+CCTCTACTGGCATT-1,0,T cells,T cells
+CCTGACTGAAGTAG-1,3,NK cells,NK cells
+CCTGACTGGGGAGT-1,0,T cells,T cells
+CCTGACTGTGTCTT-1,1,B cells,B cells
+CCTGCAACACGTTG-1,2,Monocytes,Monocytes
+CCTGGACTCGTGAT-1,0,T cells,T cells
+CCTTAATGCCCAAA-1,1,B cells,B cells
+CCTTAATGTTCTAC-1,4,Monocytes,Monocytes
+CCTTCACTACGACT-1,0,T cells,T cells
+CCTTCACTCAGTCA-1,1,B cells,B cells
+CCTTCACTGGAGTG-1,2,Monocytes,Monocytes
+CCTTTAGATTCATC-1,2,Monocytes,Monocytes
+CGAACATGCCCTAC-1,2,Monocytes,Monocytes
+CGAACATGTCAGAC-1,0,T cells,T cells
+CGAAGACTGGAACG-1,3,NK cells,NK cells
+CGAAGACTGTTACG-1,0,T cells,T cells
+CGAAGGGAAACCTG-1,3,NK cells,NK cells
+CGAAGGGATCCGAA-1,1,B cells,B cells
+CGAAGTACCAACTG-1,1,B cells,B cells
+CGAATCGAGGAGCA-1,2,Monocytes,Monocytes
+CGAATCGAGGAGGT-1,0,T cells,T cells
+CGACAAACCCATAG-1,0,T cells,T cells
+CGACAAACCGACAT-1,1,B cells,B cells
+CGACCACTAAAGTG-1,3,NK cells,NK cells
+CGACCACTGCCAAT-1,3,NK cells,NK cells
+CGACCGGAAGGTCT-1,0,T cells,T cells
+CGACCGGATGGAAA-1,0,T cells,T cells
+CGACCTTGCTAGTG-1,0,T cells,T cells
+CGACGTCTATCGTG-1,3,NK cells,NK cells
+CGACGTCTCGTGTA-1,0,T cells,T cells
+CGACGTCTGAGGCA-1,0,T cells,T cells
+CGACTCACGTCGTA-1,0,T cells,T cells
+CGACTCACGTTGCA-1,0,T cells,T cells
+CGACTCTGTGTGAC-1,0,T cells,T cells
+CGACTGCTTCCTCG-1,2,Monocytes,Monocytes
+CGAGAACTAAGGCG-1,3,NK cells,NK cells
+CGAGAACTACGTTG-1,0,T cells,T cells
+CGAGAACTTGTTCT-1,2,Monocytes,Monocytes
+CGAGATTGGACACT-1,3,NK cells,NK cells
+CGAGATTGGCCATA-1,3,NK cells,NK cells
+CGAGCCGAACACCA-1,0,T cells,T cells
+CGAGCCGACGACAT-1,3,NK cells,NK cells
+CGAGCCGAGGCGAA-1,0,T cells,T cells
+CGAGCGTGCTCCAC-1,0,T cells,T cells
+CGAGCGTGGATACC-1,0,T cells,T cells
+CGAGCGTGTATGCG-1,2,Monocytes,Monocytes
+CGAGGAGACCTCCA-1,1,B cells,B cells
+CGAGGAGATGTCGA-1,0,T cells,T cells
+CGAGGCACCTATGG-1,3,NK cells,NK cells
+CGAGGCACTATGCG-1,2,Monocytes,Monocytes
+CGAGGCACTCTTCA-1,0,T cells,T cells
+CGAGGCTGACGCTA-1,3,NK cells,NK cells
+CGAGGCTGGCAGTT-1,2,Monocytes,Monocytes
+CGAGGGCTACGACT-1,1,B cells,B cells
+CGAGGGCTCGAATC-1,0,T cells,T cells
+CGAGTATGTCACCC-1,4,Monocytes,Monocytes
+CGATACGAACAGTC-1,2,Monocytes,Monocytes
+CGATACGACAGGAG-1,3,NK cells,NK cells
+CGATACGATTCACT-1,1,B cells,B cells
+CGATAGACCCGTAA-1,2,Monocytes,Monocytes
+CGATAGACCGTACA-1,0,T cells,T cells
+CGATAGACGTAGGG-1,2,Monocytes,Monocytes
+CGATAGACTGTTCT-1,0,T cells,T cells
+CGATCAGAAGAACA-1,3,NK cells,NK cells
+CGATCAGAGAGGGT-1,0,T cells,T cells
+CGATCAGAGGTACT-1,0,T cells,T cells
+CGATCAGATGTGAC-1,5,Monocytes,Unknown
+CGATCCACCGGGAA-1,3,NK cells,NK cells
+CGATCCACTTCCAT-1,1,B cells,B cells
+CGCAAATGCTCGAA-1,0,T cells,T cells
+CGCAACCTCCTTGC-1,0,T cells,T cells
+CGCAACCTGGACGA-1,0,T cells,T cells
+CGCACGGAGGACGA-1,1,B cells,B cells
+CGCACGGATCTTTG-1,0,T cells,T cells
+CGCACTACAGAATG-1,0,T cells,T cells
+CGCACTACAGCCAT-1,0,T cells,T cells
+CGCACTACATTGGC-1,0,T cells,T cells
+CGCACTACTCGCCT-1,1,B cells,B cells
+CGCACTACTCGTGA-1,0,T cells,T cells
+CGCACTTGTCACGA-1,2,Monocytes,Monocytes
+CGCAGGACAGATCC-1,3,NK cells,NK cells
+CGCAGGACCTACTT-1,0,T cells,T cells
+CGCAGGACTTGTCT-1,4,Monocytes,Monocytes
+CGCAGGTGCACTGA-1,0,T cells,T cells
+CGCAGGTGCCATAG-1,4,Monocytes,Monocytes
+CGCAGGTGGGAACG-1,0,T cells,T cells
+CGCATAGATCACGA-1,2,Monocytes,Monocytes
+CGCCATACTGCAAC-1,0,T cells,T cells
+CGCCATTGAGAGGC-1,0,T cells,T cells
+CGCCATTGCTATGG-1,0,T cells,T cells
+CGCCATTGGAGACG-1,0,T cells,T cells
+CGCCATTGGAGCAG-1,1,B cells,B cells
+CGCCATTGTACTGG-1,1,B cells,B cells
+CGCCGAGAGCTTAG-1,3,NK cells,NK cells
+CGCCTAACGAATGA-1,5,Monocytes,Unknown
+CGCCTAACTGCTCC-1,0,T cells,T cells
+CGCGAGACACAGCT-1,0,T cells,T cells
+CGCGAGACAGGTCT-1,1,B cells,B cells
+CGCGAGACGCTACA-1,0,T cells,T cells
+CGCGATCTCAGTCA-1,2,Monocytes,Monocytes
+CGCGATCTGTTGAC-1,2,Monocytes,Monocytes
+CGCGATCTTTCTTG-1,1,B cells,B cells
+CGCGGATGGCCAAT-1,0,T cells,T cells
+CGCTAAGAATGTCG-1,0,T cells,T cells
+CGCTAAGACAACTG-1,0,T cells,T cells
+CGCTAAGACCCTTG-1,0,T cells,T cells
+CGCTACTGAACAGA-1,2,Monocytes,Monocytes
+CGCTACTGAGAACA-1,0,T cells,T cells
+CGCTACTGTGAGCT-1,0,T cells,T cells
+CGCTACTGTTCCCG-1,0,T cells,T cells
+CGCTCATGCATTTC-1,2,Monocytes,Monocytes
+CGGAATTGCACTAG-1,0,T cells,T cells
+CGGAATTGGTTTGG-1,0,T cells,T cells
+CGGAATTGTGGAGG-1,0,T cells,T cells
+CGGACCGATGCGTA-1,3,NK cells,NK cells
+CGGACCGATGGGAG-1,0,T cells,T cells
+CGGACTCTAAACAG-1,1,B cells,B cells
+CGGACTCTCCAATG-1,0,T cells,T cells
+CGGACTCTCCTCGT-1,3,NK cells,NK cells
+CGGAGGCTATTCCT-1,0,T cells,T cells
+CGGAGGCTTGGATC-1,0,T cells,T cells
+CGGATAACAACGAA-1,2,Monocytes,Monocytes
+CGGATAACAGCTCA-1,0,T cells,T cells
+CGGATAACTCAGTG-1,2,Monocytes,Monocytes
+CGGCACGAACTCAG-1,3,NK cells,NK cells
+CGGCACGAAGGGTG-1,0,T cells,T cells
+CGGCACGACTACGA-1,4,Monocytes,Monocytes
+CGGCATCTTAGAAG-1,0,T cells,T cells
+CGGCATCTTCGTAG-1,2,Monocytes,Monocytes
+CGGCCAGAAAGGTA-1,0,T cells,T cells
+CGGCCAGAGAGGCA-1,3,NK cells,NK cells
+CGGCGAACCAGTCA-1,2,Monocytes,Monocytes
+CGGCGAACGACAAA-1,3,NK cells,NK cells
+CGGCGAACGGTCTA-1,0,T cells,T cells
+CGGCGAACTACTTC-1,3,NK cells,NK cells
+CGGGACTGCGTGTA-1,0,T cells,T cells
+CGGGACTGGAATAG-1,3,NK cells,NK cells
+CGGGCATGACCCAA-1,6,Monocytes,Unknown
+CGGGCATGTCTCTA-1,3,NK cells,NK cells
+CGGGCATGTTGTGG-1,0,T cells,T cells
+CGGTAAACTCGCAA-1,0,T cells,T cells
+CGGTCACTGTTTGG-1,0,T cells,T cells
+CGGTCACTTACTTC-1,0,T cells,T cells
+CGTAACGAATCAGC-1,0,T cells,T cells
+CGTAACGATCGCCT-1,0,T cells,T cells
+CGTACCACACACAC-1,0,T cells,T cells
+CGTACCACACGTTG-1,0,T cells,T cells
+CGTACCACCTCATT-1,0,T cells,T cells
+CGTACCACGCTACA-1,0,T cells,T cells
+CGTACCACGGAGCA-1,0,T cells,T cells
+CGTACCTGGCATCA-1,3,NK cells,NK cells
+CGTAGCCTCTCTCG-1,2,Monocytes,Monocytes
+CGTAGCCTGCGAAG-1,0,T cells,T cells
+CGTAGCCTGTATGC-1,4,Monocytes,Monocytes
+CGTCAAGAAAGGTA-1,2,Monocytes,Monocytes
+CGTCAAGAACGTGT-1,0,T cells,T cells
+CGTCAAGACAGAGG-1,0,T cells,T cells
+CGTCAAGACAGGAG-1,3,NK cells,NK cells
+CGTCCATGCTCTTA-1,0,T cells,T cells
+CGTCGACTTTCCGC-1,3,NK cells,NK cells
+CGTGATGACGCTAA-1,0,T cells,T cells
+CGTGATGAGGTTCA-1,0,T cells,T cells
+CGTGCACTTATGGC-1,2,Monocytes,Monocytes
+CGTGTAGAAAAACG-1,0,T cells,T cells
+CGTGTAGACGATAC-1,3,NK cells,NK cells
+CGTGTAGAGTTACG-1,3,NK cells,NK cells
+CGTGTAGAGTTCAG-1,2,Monocytes,Monocytes
+CGTGTAGATTCGGA-1,3,NK cells,NK cells
+CGTTAGGAAACCAC-1,0,T cells,T cells
+CGTTAGGATCATTC-1,2,Monocytes,Monocytes
+CGTTATACCCTGAA-1,3,NK cells,NK cells
+CGTTTAACTGGTCA-1,0,T cells,T cells
+CTAAACCTCTGACA-1,3,NK cells,NK cells
+CTAAACCTGTGCAT-1,1,B cells,B cells
+CTAACACTAACGTC-1,0,T cells,T cells
+CTAACACTAGTGCT-1,2,Monocytes,Monocytes
+CTAACGGAACCGAT-1,3,NK cells,NK cells
+CTAACGGATTTCTG-1,0,T cells,T cells
+CTAACTACGGCAAG-1,0,T cells,T cells
+CTAAGGACACCATG-1,0,T cells,T cells
+CTAAGGACCGTTAG-1,0,T cells,T cells
+CTAAGGACGCCATA-1,2,Monocytes,Monocytes
+CTAAGGTGCCTAAG-1,1,B cells,B cells
+CTAAGGTGTTGCAG-1,0,T cells,T cells
+CTAAGGTGTTTCTG-1,0,T cells,T cells
+CTAATAGAGCTATG-1,0,T cells,T cells
+CTAATGCTTGTGGT-1,2,Monocytes,Monocytes
+CTACAACTCCCGTT-1,3,NK cells,NK cells
+CTACCTCTCAACCA-1,0,T cells,T cells
+CTACGCACACCTAG-1,4,Monocytes,Monocytes
+CTACGCACTCTCCG-1,0,T cells,T cells
+CTACGCACTGGTCA-1,3,NK cells,NK cells
+CTACGGCTTTCTTG-1,2,Monocytes,Monocytes
+CTACTATGAACCAC-1,2,Monocytes,Monocytes
+CTACTATGATGTGC-1,2,Monocytes,Monocytes
+CTACTATGCTAAGC-1,3,NK cells,NK cells
+CTACTATGTAAAGG-1,1,B cells,B cells
+CTACTCCTATGTCG-1,3,NK cells,NK cells
+CTACTCCTGCCATA-1,2,Monocytes,Monocytes
+CTAGAGACACTTTC-1,0,T cells,T cells
+CTAGAGACAGCATC-1,3,NK cells,NK cells
+CTAGAGACTTTGGG-1,2,Monocytes,Monocytes
+CTAGATCTCTCTAT-1,0,T cells,T cells
+CTAGATCTTCGACA-1,0,T cells,T cells
+CTAGGATGAGCCTA-1,1,B cells,B cells
+CTAGGATGATCGTG-1,1,B cells,B cells
+CTAGGCCTCTCAGA-1,0,T cells,T cells
+CTAGGTGATGGTTG-1,4,Monocytes,Monocytes
+CTAGTTACCAGAGG-1,0,T cells,T cells
+CTAGTTACCGCATA-1,0,T cells,T cells
+CTAGTTACGAAACA-1,3,NK cells,NK cells
+CTAGTTTGAGTACC-1,3,NK cells,NK cells
+CTATAAGATCGTTT-1,1,B cells,B cells
+CTATACTGAGGTTC-1,2,Monocytes,Monocytes
+CTATACTGCCAGTA-1,0,T cells,T cells
+CTATACTGCGCTAA-1,2,Monocytes,Monocytes
+CTATACTGCTACGA-1,3,NK cells,NK cells
+CTATACTGTCTCAT-1,3,NK cells,NK cells
+CTATACTGTTCGTT-1,0,T cells,T cells
+CTATAGCTGTCACA-1,0,T cells,T cells
+CTATAGCTTCGCTC-1,2,Monocytes,Monocytes
+CTATAGCTTGCCTC-1,2,Monocytes,Monocytes
+CTATCAACGAACTC-1,0,T cells,T cells
+CTATCAACGCAGAG-1,0,T cells,T cells
+CTATCAACTTTGGG-1,0,T cells,T cells
+CTATCCCTCCACCT-1,2,Monocytes,Monocytes
+CTATGTACGAGAGC-1,0,T cells,T cells
+CTATGTACGCTTAG-1,0,T cells,T cells
+CTATGTACTGTTTC-1,1,B cells,B cells
+CTATGTTGAAAGCA-1,0,T cells,T cells
+CTATGTTGTCCTCG-1,0,T cells,T cells
+CTATGTTGTCTCGC-1,0,T cells,T cells
+CTATTGACAAACGA-1,2,Monocytes,Monocytes
+CTATTGACACTGGT-1,2,Monocytes,Monocytes
+CTATTGACGGTGAG-1,4,Monocytes,Monocytes
+CTATTGTGGCAAGG-1,0,T cells,T cells
+CTCAATTGGTTCAG-1,0,T cells,T cells
+CTCAATTGGTTGCA-1,2,Monocytes,Monocytes
+CTCAGAGATAGAAG-1,0,T cells,T cells
+CTCAGCACTCTAGG-1,0,T cells,T cells
+CTCAGCACTGAACC-1,2,Monocytes,Monocytes
+CTCAGCACTTGCAG-1,0,T cells,T cells
+CTCAGCTGAACCTG-1,2,Monocytes,Monocytes
+CTCAGCTGCAGTTG-1,0,T cells,T cells
+CTCAGCTGTTTCTG-1,0,T cells,T cells
+CTCAGGCTCGTTGA-1,4,Monocytes,Monocytes
+CTCAGGCTGCTAAC-1,0,T cells,T cells
+CTCATTGACCTTAT-1,0,T cells,T cells
+CTCATTGATGCTTT-1,2,Monocytes,Monocytes
+CTCCACGAGAGATA-1,5,Monocytes,Unknown
+CTCCATCTCTTAGG-1,0,T cells,T cells
+CTCCATCTGACGAG-1,0,T cells,T cells
+CTCCGAACAAGTGA-1,4,Monocytes,Monocytes
+CTCCTACTGCCTTC-1,2,Monocytes,Monocytes
+CTCGAAGATGTGGT-1,0,T cells,T cells
+CTCGAAGATTAGGC-1,2,Monocytes,Monocytes
+CTCGACTGCTCTAT-1,0,T cells,T cells
+CTCGACTGGGTGAG-1,0,T cells,T cells
+CTCGACTGGTTGAC-1,3,NK cells,NK cells
+CTCGAGCTCTGGAT-1,3,NK cells,NK cells
+CTCGCATGACTTTC-1,0,T cells,T cells
+CTCGCATGCTTAGG-1,0,T cells,T cells
+CTCTAAACCTCGAA-1,0,T cells,T cells
+CTCTAAACGGCGAA-1,0,T cells,T cells
+CTCTAATGTCCAAG-1,2,Monocytes,Monocytes
+CTGAACGACAGTCA-1,0,T cells,T cells
+CTGAACGATGAGGG-1,0,T cells,T cells
+CTGAAGACCCAACA-1,0,T cells,T cells
+CTGAAGACGTGCAT-1,1,B cells,B cells
+CTGAAGTGAAGCCT-1,4,Monocytes,Monocytes
+CTGAAGTGCAGCTA-1,1,B cells,B cells
+CTGAAGTGGCTATG-1,0,T cells,T cells
+CTGAAGTGTCCAGA-1,0,T cells,T cells
+CTGAATCTGAATAG-1,0,T cells,T cells
+CTGACAGAATCGTG-1,3,NK cells,NK cells
+CTGACCACAGCAAA-1,0,T cells,T cells
+CTGAGAACCGGGAA-1,0,T cells,T cells
+CTGAGAACGTAAAG-1,3,NK cells,NK cells
+CTGATACTAGTAGA-1,0,T cells,T cells
+CTGATTTGGTGTTG-1,2,Monocytes,Monocytes
+CTGCAGCTAACCGT-1,0,T cells,T cells
+CTGCAGCTGACACT-1,0,T cells,T cells
+CTGCAGCTGGATTC-1,2,Monocytes,Monocytes
+CTGCAGCTTGGCAT-1,3,NK cells,NK cells
+CTGCCAACAGGAGC-1,3,NK cells,NK cells
+CTGCCAACCAGCTA-1,0,T cells,T cells
+CTGCCAACTAACCG-1,2,Monocytes,Monocytes
+CTGCCAACTGCTCC-1,3,NK cells,NK cells
+CTGCCAACTTGCAG-1,0,T cells,T cells
+CTGCCAACTTGCTT-1,3,NK cells,NK cells
+CTGCGACTCCACCT-1,0,T cells,T cells
+CTGGAAACAAACGA-1,3,NK cells,NK cells
+CTGGAAACATCGAC-1,0,T cells,T cells
+CTGGATGACTGGAT-1,3,NK cells,NK cells
+CTGGATGACTTGTT-1,0,T cells,T cells
+CTGGATGATGTGAC-1,1,B cells,B cells
+CTGGCACTCAAGCT-1,2,Monocytes,Monocytes
+CTGGCACTGGACAG-1,3,NK cells,NK cells
+CTGTAACTAACCAC-1,0,T cells,T cells
+CTGTAACTAGCGTT-1,0,T cells,T cells
+CTGTATACGTAAAG-1,0,T cells,T cells
+CTGTATACGTACGT-1,2,Monocytes,Monocytes
+CTGTATACGTTGGT-1,0,T cells,T cells
+CTGTGAGACAACCA-1,4,Monocytes,Monocytes
+CTGTGAGACCTTGC-1,3,NK cells,NK cells
+CTGTGAGACGAACT-1,2,Monocytes,Monocytes
+CTGTGAGACTGTAG-1,2,Monocytes,Monocytes
+CTTAAAGAACCTGA-1,0,T cells,T cells
+CTTAACACCTGTAG-1,0,T cells,T cells
+CTTAACACGAGCTT-1,0,T cells,T cells
+CTTAACACTATCGG-1,1,B cells,B cells
+CTTAAGCTACCTAG-1,0,T cells,T cells
+CTTAAGCTAGTACC-1,0,T cells,T cells
+CTTAAGCTCATCAG-1,0,T cells,T cells
+CTTAAGCTCCGCTT-1,1,B cells,B cells
+CTTAAGCTTCCTCG-1,3,NK cells,NK cells
+CTTACAACTAACGC-1,0,T cells,T cells
+CTTACAACTCCCGT-1,2,Monocytes,Monocytes
+CTTACTGACGTACA-1,0,T cells,T cells
+CTTAGACTAAACGA-1,0,T cells,T cells
+CTTAGGGACTTGCC-1,0,T cells,T cells
+CTTAGGGAGAATCC-1,0,T cells,T cells
+CTTATCGACTCATT-1,0,T cells,T cells
+CTTCACCTACCTGA-1,4,Monocytes,Monocytes
+CTTCATGAAGCATC-1,1,B cells,B cells
+CTTCATGAAGTACC-1,0,T cells,T cells
+CTTCATGACCGAAT-1,3,NK cells,NK cells
+CTTGAACTACGCAT-1,0,T cells,T cells
+CTTGATTGAGGTTC-1,3,NK cells,NK cells
+CTTGATTGATCTTC-1,2,Monocytes,Monocytes
+CTTGATTGCATTCT-1,0,T cells,T cells
+CTTGATTGTTTCGT-1,0,T cells,T cells
+CTTGTATGACACCA-1,1,B cells,B cells
+CTTGTATGCGCAAT-1,1,B cells,B cells
+CTTTACGAGCGAAG-1,0,T cells,T cells
+CTTTAGACCGTGAT-1,0,T cells,T cells
+CTTTAGACGAGACG-1,0,T cells,T cells
+CTTTAGACGATACC-1,0,T cells,T cells
+CTTTAGACGTTGGT-1,3,NK cells,NK cells
+CTTTAGACTCATTC-1,3,NK cells,NK cells
+CTTTAGTGACGGGA-1,3,NK cells,NK cells
+CTTTAGTGGGTGGA-1,0,T cells,T cells
+CTTTCAGAGAAACA-1,0,T cells,T cells
+CTTTGATGAGCACT-1,0,T cells,T cells
+CTTTGATGTCTAGG-1,3,NK cells,NK cells
+CTTTGATGTGTCCC-1,0,T cells,T cells
+CTTTGATGTGTGGT-1,0,T cells,T cells
+GAAACAGAACTACG-1,0,T cells,T cells
+GAAACAGAATCACG-1,0,T cells,T cells
+GAAACAGACATTCT-1,0,T cells,T cells
+GAAACCTGATCGTG-1,0,T cells,T cells
+GAAACCTGATGCCA-1,0,T cells,T cells
+GAAACCTGCTTATC-1,0,T cells,T cells
+GAAACCTGGACTAC-1,4,Monocytes,Monocytes
+GAAACCTGTGCTAG-1,0,T cells,T cells
+GAAAGATGATTTCC-1,0,T cells,T cells
+GAAAGATGCTGATG-1,4,Monocytes,Monocytes
+GAAAGATGCTTCGC-1,2,Monocytes,Monocytes
+GAAAGATGTAAGGA-1,0,T cells,T cells
+GAAAGATGTTTGCT-1,3,NK cells,NK cells
+GAAAGCCTACGTTG-1,1,B cells,B cells
+GAAAGTGAAAGTGA-1,5,Monocytes,Unknown
+GAAAGTGACCACAA-1,2,Monocytes,Monocytes
+GAAAGTGACTCAAG-1,0,T cells,T cells
+GAAATACTACCAAC-1,2,Monocytes,Monocytes
+GAAATACTCTTAGG-1,1,B cells,B cells
+GAAATACTTCCTCG-1,0,T cells,T cells
+GAACACACGTGCAT-1,2,Monocytes,Monocytes
+GAACACACTGCCTC-1,0,T cells,T cells
+GAACAGCTAACTGC-1,2,Monocytes,Monocytes
+GAACAGCTCTCAGA-1,4,Monocytes,Monocytes
+GAACCAACCACAAC-1,0,T cells,T cells
+GAACCAACTTCCGC-1,3,NK cells,NK cells
+GAACCTGAACGTGT-1,3,NK cells,NK cells
+GAACCTGAGAGACG-1,0,T cells,T cells
+GAACCTGATGAACC-1,0,T cells,T cells
+GAACGGGATACTTC-1,0,T cells,T cells
+GAACGTTGACGGAG-1,3,NK cells,NK cells
+GAACTGTGACCTGA-1,4,Monocytes,Monocytes
+GAACTGTGCCAGTA-1,2,Monocytes,Monocytes
+GAAGAATGCAATCG-1,0,T cells,T cells
+GAAGCGGACCTATT-1,2,Monocytes,Monocytes
+GAAGCTACGAATGA-1,2,Monocytes,Monocytes
+GAAGCTACGGTTTG-1,0,T cells,T cells
+GAAGGGTGAAAGTG-1,0,T cells,T cells
+GAAGGGTGCTTAGG-1,2,Monocytes,Monocytes
+GAAGGTCTGAAAGT-1,0,T cells,T cells
+GAAGGTCTGTTGCA-1,0,T cells,T cells
+GAAGGTCTTAAAGG-1,5,Monocytes,Unknown
+GAAGTAGACTCCCA-1,3,NK cells,NK cells
+GAAGTAGATCCAAG-1,4,Monocytes,Monocytes
+GAAGTCACCCTCGT-1,2,Monocytes,Monocytes
+GAAGTCACCCTGTC-1,1,B cells,B cells
+GAAGTCTGTCGCAA-1,1,B cells,B cells
+GAAGTCTGTTCTGT-1,0,T cells,T cells
+GAAGTGCTAAACGA-1,3,NK cells,NK cells
+GAAGTGCTCCGCTT-1,2,Monocytes,Monocytes
+GAAGTGCTTAACCG-1,0,T cells,T cells
+GAATGCACCCTAAG-1,0,T cells,T cells
+GAATGCACCTTCGC-1,3,NK cells,NK cells
+GAATGCTGCGGTAT-1,0,T cells,T cells
+GAATGGCTAAGATG-1,0,T cells,T cells
+GAATTAACGATAAG-1,0,T cells,T cells
+GAATTAACGGTCAT-1,0,T cells,T cells
+GAATTAACGTCGTA-1,3,NK cells,NK cells
+GAATTAACTGAAGA-1,1,B cells,B cells
+GACAACACAGGCGA-1,0,T cells,T cells
+GACAACACATCGTG-1,0,T cells,T cells
+GACAACACTCGCCT-1,0,T cells,T cells
+GACAACTGAGGTTC-1,0,T cells,T cells
+GACAGGGAAGAGTA-1,1,B cells,B cells
+GACAGGGAATGCCA-1,0,T cells,T cells
+GACAGTACGAGCTT-1,4,Monocytes,Monocytes
+GACAGTACTTCGGA-1,4,Monocytes,Monocytes
+GACAGTTGAGTAGA-1,1,B cells,B cells
+GACATTCTCCACCT-1,5,Monocytes,Unknown
+GACCAAACGACTAC-1,2,Monocytes,Monocytes
+GACCAAACGTATCG-1,2,Monocytes,Monocytes
+GACCATGACTCTCG-1,2,Monocytes,Monocytes
+GACCCTACTAAAGG-1,1,B cells,B cells
+GACCTAGACCTCAC-1,0,T cells,T cells
+GACCTAGACGAGAG-1,0,T cells,T cells
+GACCTCACAAGGTA-1,0,T cells,T cells
+GACCTCACGTACGT-1,2,Monocytes,Monocytes
+GACCTCTGCATCAG-1,0,T cells,T cells
+GACGAACTCCCACT-1,0,T cells,T cells
+GACGATTGCCAATG-1,1,B cells,B cells
+GACGCCGACCTTCG-1,0,T cells,T cells
+GACGCTCTCTCTCG-1,6,Monocytes,Unknown
+GACGGCACACGGGA-1,3,NK cells,NK cells
+GACGGCACGAGATA-1,2,Monocytes,Monocytes
+GACGTAACCTATGG-1,0,T cells,T cells
+GACGTAACCTGTGA-1,3,NK cells,NK cells
+GACGTAACTATGGC-1,0,T cells,T cells
+GACGTATGTTGACG-1,0,T cells,T cells
+GACGTATGTTTGCT-1,0,T cells,T cells
+GACGTCCTACGGAG-1,0,T cells,T cells
+GACGTCCTCTCAAG-1,2,Monocytes,Monocytes
+GACGTCCTGATAAG-1,1,B cells,B cells
+GACTACGATGGTCA-1,1,B cells,B cells
+GACTCCTGCTCGCT-1,0,T cells,T cells
+GACTCCTGGGTTAC-1,0,T cells,T cells
+GACTCCTGTTATCC-1,0,T cells,T cells
+GACTCCTGTTGGTG-1,2,Monocytes,Monocytes
+GACTGAACAACCGT-1,1,B cells,B cells
+GACTGAACCAATCG-1,2,Monocytes,Monocytes
+GACTGATGTGATGC-1,0,T cells,T cells
+GACTTTACATGCCA-1,0,T cells,T cells
+GACTTTACGACAGG-1,1,B cells,B cells
+GAGAAATGTTCTCA-1,1,B cells,B cells
+GAGATAGAAAAAGC-1,2,Monocytes,Monocytes
+GAGATCACGACAAA-1,4,Monocytes,Monocytes
+GAGATGCTCTGGAT-1,3,NK cells,NK cells
+GAGATGCTGAATGA-1,0,T cells,T cells
+GAGCAGGATTCCCG-1,3,NK cells,NK cells
+GAGCATACTTTGCT-1,4,Monocytes,Monocytes
+GAGCGCACGCGTAT-1,2,Monocytes,Monocytes
+GAGCGCACGGTGAG-1,3,NK cells,NK cells
+GAGCGCTGAAGATG-1,3,NK cells,NK cells
+GAGCGCTGTCTTAC-1,2,Monocytes,Monocytes
+GAGCGGCTGGGAGT-1,1,B cells,B cells
+GAGGACGACTCAGA-1,0,T cells,T cells
+GAGGATCTGAAAGT-1,1,B cells,B cells
+GAGGCAGACTTGCC-1,3,NK cells,NK cells
+GAGGGAACACCAGT-1,0,T cells,T cells
+GAGGGAACGAGGGT-1,0,T cells,T cells
+GAGGGATGGGAAAT-1,0,T cells,T cells
+GAGGGCCTTCACCC-1,0,T cells,T cells
+GAGGGTGAAGAGTA-1,0,T cells,T cells
+GAGGTACTACGGTT-1,0,T cells,T cells
+GAGGTACTACTCAG-1,2,Monocytes,Monocytes
+GAGGTACTGACACT-1,3,NK cells,NK cells
+GAGGTACTGGGAGT-1,0,T cells,T cells
+GAGGTACTTAGCGT-1,2,Monocytes,Monocytes
+GAGGTGGAGTACGT-1,0,T cells,T cells
+GAGGTGGATCCTCG-1,3,NK cells,NK cells
+GAGGTTACTCGTTT-1,2,Monocytes,Monocytes
+GAGGTTTGTAAGCC-1,2,Monocytes,Monocytes
+GAGTCAACCATTCT-1,0,T cells,T cells
+GAGTCAACGGGAGT-1,0,T cells,T cells
+GAGTCTGATCGTGA-1,0,T cells,T cells
+GAGTCTGATTTGGG-1,1,B cells,B cells
+GAGTGACTCAGCTA-1,0,T cells,T cells
+GAGTGACTCGGTAT-1,3,NK cells,NK cells
+GAGTGACTCTTGCC-1,1,B cells,B cells
+GAGTGACTGACTAC-1,1,B cells,B cells
+GAGTGACTGTCTAG-1,0,T cells,T cells
+GAGTGGGAGTCTTT-1,1,B cells,B cells
+GAGTGGGATGCCCT-1,0,T cells,T cells
+GAGTGGGATGCTGA-1,1,B cells,B cells
+GAGTGTTGCTGTAG-1,0,T cells,T cells
+GAGTGTTGTGGTCA-1,0,T cells,T cells
+GAGTTGTGCATGGT-1,2,Monocytes,Monocytes
+GAGTTGTGCTGAGT-1,3,NK cells,NK cells
+GAGTTGTGGCGAGA-1,2,Monocytes,Monocytes
+GAGTTGTGGTAGCT-1,6,Monocytes,Unknown
+GAGTTGTGTATGCG-1,4,Monocytes,Monocytes
+GATAAGGAGAAACA-1,2,Monocytes,Monocytes
+GATAAGGATTCACT-1,2,Monocytes,Monocytes
+GATACTCTATCGGT-1,0,T cells,T cells
+GATACTCTTACTTC-1,0,T cells,T cells
+GATACTCTTGACTG-1,2,Monocytes,Monocytes
+GATAGAGAAGGGTG-1,3,NK cells,NK cells
+GATAGAGACTGTGA-1,0,T cells,T cells
+GATAGAGATCACGA-1,5,Monocytes,Unknown
+GATAGCACCCATAG-1,0,T cells,T cells
+GATAGCACGAAGGC-1,2,Monocytes,Monocytes
+GATAGCACTTGTCT-1,0,T cells,T cells
+GATATAACAAGGTA-1,0,T cells,T cells
+GATATAACACGCAT-1,0,T cells,T cells
+GATATATGCTGGAT-1,0,T cells,T cells
+GATATATGTCCGTC-1,3,NK cells,NK cells
+GATATATGTGGAGG-1,2,Monocytes,Monocytes
+GATATCCTAGAAGT-1,0,T cells,T cells
+GATATCCTCCCGTT-1,2,Monocytes,Monocytes
+GATATTGACAGGAG-1,3,NK cells,NK cells
+GATATTGACGAGTT-1,4,Monocytes,Monocytes
+GATATTGAGCCAAT-1,0,T cells,T cells
+GATCCCTGACCTTT-1,3,NK cells,NK cells
+GATCCCTGTGTAGC-1,3,NK cells,NK cells
+GATCCGCTGGTCAT-1,2,Monocytes,Monocytes
+GATCGAACCGAGAG-1,0,T cells,T cells
+GATCGATGACTAGC-1,1,B cells,B cells
+GATCGATGGTAAAG-1,1,B cells,B cells
+GATCGATGTAAGGA-1,2,Monocytes,Monocytes
+GATCGTGACACTAG-1,0,T cells,T cells
+GATCGTGATTCACT-1,0,T cells,T cells
+GATCTACTGGTGAG-1,0,T cells,T cells
+GATCTACTTTGCAG-1,1,B cells,B cells
+GATCTTACACCCAA-1,4,Monocytes,Monocytes
+GATCTTACCCTACC-1,0,T cells,T cells
+GATCTTACGAATAG-1,2,Monocytes,Monocytes
+GATCTTACGAGATA-1,2,Monocytes,Monocytes
+GATGCAACTCCAGA-1,0,T cells,T cells
+GATGCCCTACGTAC-1,0,T cells,T cells
+GATGCCCTCTCATT-1,0,T cells,T cells
+GATGCCCTGGCAAG-1,2,Monocytes,Monocytes
+GATGCCCTTTTGCT-1,0,T cells,T cells
+GATTACCTTGTTCT-1,0,T cells,T cells
+GATTCGGAACGACT-1,0,T cells,T cells
+GATTCGGACAGGAG-1,2,Monocytes,Monocytes
+GATTCGGAGAAGGC-1,4,Monocytes,Monocytes
+GATTCTTGATTCGG-1,2,Monocytes,Monocytes
+GATTCTTGCCGATA-1,0,T cells,T cells
+GATTCTTGCGAGTT-1,1,B cells,B cells
+GATTGGACCCGTTC-1,1,B cells,B cells
+GATTGGACGGTGTT-1,1,B cells,B cells
+GATTGGACTTTCGT-1,1,B cells,B cells
+GATTGGTGTGTCAG-1,0,T cells,T cells
+GATTTAGACACTCC-1,4,Monocytes,Monocytes
+GATTTAGACTAAGC-1,1,B cells,B cells
+GATTTAGATTCGTT-1,2,Monocytes,Monocytes
+GATTTGCTAACGAA-1,0,T cells,T cells
+GATTTGCTAACGGG-1,2,Monocytes,Monocytes
+GCAACCCTCCTCGT-1,2,Monocytes,Monocytes
+GCAACTGATTGCGA-1,0,T cells,T cells
+GCAAGACTACTGGT-1,0,T cells,T cells
+GCAAGACTAGGTCT-1,0,T cells,T cells
+GCAAGACTCCCTTG-1,0,T cells,T cells
+GCAATCGACTGCAA-1,3,NK cells,NK cells
+GCAATCGAGACGTT-1,2,Monocytes,Monocytes
+GCAATCGATCCTTA-1,2,Monocytes,Monocytes
+GCAATTCTCGTGTA-1,0,T cells,T cells
+GCAATTCTTCTCCG-1,0,T cells,T cells
+GCACAAACAATGCC-1,3,NK cells,NK cells
+GCACAAACGGTACT-1,0,T cells,T cells
+GCACAATGGTGCAT-1,5,Monocytes,Unknown
+GCACACCTGTGCTA-1,3,NK cells,NK cells
+GCACCACTCATGAC-1,2,Monocytes,Monocytes
+GCACCACTGTTTGG-1,2,Monocytes,Monocytes
+GCACCACTTCCTTA-1,3,NK cells,NK cells
+GCACCACTTTCGGA-1,2,Monocytes,Monocytes
+GCACCTACGCGATT-1,0,T cells,T cells
+GCACCTTGGCTGTA-1,0,T cells,T cells
+GCACCTTGGGGAGT-1,2,Monocytes,Monocytes
+GCACGGACCAGCTA-1,0,T cells,T cells
+GCACGGTGACCTCC-1,0,T cells,T cells
+GCACGGTGCTATGG-1,2,Monocytes,Monocytes
+GCACTAGAACGGGA-1,0,T cells,T cells
+GCACTAGAAGATGA-1,1,B cells,B cells
+GCACTAGACCTTTA-1,4,Monocytes,Monocytes
+GCACTAGACGTAAC-1,1,B cells,B cells
+GCACTAGAGTCGTA-1,3,NK cells,NK cells
+GCACTAGATGCAAC-1,0,T cells,T cells
+GCACTGCTGAGGCA-1,0,T cells,T cells
+GCAGATACAGCGTT-1,3,NK cells,NK cells
+GCAGATACGACGGA-1,0,T cells,T cells
+GCAGATACGCAGAG-1,0,T cells,T cells
+GCAGCCGACAGTCA-1,0,T cells,T cells
+GCAGCGTGCACTCC-1,0,T cells,T cells
+GCAGCTCTCAATCG-1,0,T cells,T cells
+GCAGCTCTGTTTCT-1,0,T cells,T cells
+GCAGGGCTAAGAAC-1,0,T cells,T cells
+GCAGGGCTAAGGGC-1,0,T cells,T cells
+GCAGGGCTATCGAC-1,3,NK cells,NK cells
+GCAGGGCTTGGGAG-1,3,NK cells,NK cells
+GCAGTCCTAACTGC-1,0,T cells,T cells
+GCAGTCCTCTCTTA-1,0,T cells,T cells
+GCATCAGATGCGTA-1,3,NK cells,NK cells
+GCATGTGACAAGCT-1,0,T cells,T cells
+GCATTGGAGAAGGC-1,0,T cells,T cells
+GCCAAAACGAGGCA-1,3,NK cells,NK cells
+GCCAAATGATCGAC-1,0,T cells,T cells
+GCCAACCTACGGTT-1,0,T cells,T cells
+GCCAACCTCGCCTT-1,0,T cells,T cells
+GCCACGGAGGCGAA-1,2,Monocytes,Monocytes
+GCCACGGATACTGG-1,0,T cells,T cells
+GCCACTACCTACTT-1,1,B cells,B cells
+GCCACTACGTCTTT-1,0,T cells,T cells
+GCCCAACTACCGAT-1,0,T cells,T cells
+GCCCAACTATGGTC-1,3,NK cells,NK cells
+GCCCATACAGCGTT-1,3,NK cells,NK cells
+GCCGACGAACTCTT-1,2,Monocytes,Monocytes
+GCCGAGTGCGTTGA-1,3,NK cells,NK cells
+GCCGGAACGAACTC-1,3,NK cells,NK cells
+GCCGGAACGTTCTT-1,3,NK cells,NK cells
+GCCGGAACTGCACA-1,3,NK cells,NK cells
+GCCGGAACTTACTC-1,0,T cells,T cells
+GCCGTACTACCTGA-1,0,T cells,T cells
+GCCGTACTGGCAAG-1,2,Monocytes,Monocytes
+GCCTACACAGTTCG-1,3,NK cells,NK cells
+GCCTACACCACTGA-1,4,Monocytes,Monocytes
+GCCTACACCTTGAG-1,0,T cells,T cells
+GCCTAGCTACGGAG-1,1,B cells,B cells
+GCCTAGCTCTATTC-1,0,T cells,T cells
+GCCTAGCTTCTCAT-1,0,T cells,T cells
+GCCTAGCTTCTCTA-1,4,Monocytes,Monocytes
+GCCTCAACCATGGT-1,0,T cells,T cells
+GCCTCAACTCTTTG-1,3,NK cells,NK cells
+GCCTCATGTCTTAC-1,3,NK cells,NK cells
+GCCTGACTCTCAAG-1,2,Monocytes,Monocytes
+GCGAAGGAACTCTT-1,0,T cells,T cells
+GCGAAGGAGAGCTT-1,3,NK cells,NK cells
+GCGAAGGATGCCAA-1,0,T cells,T cells
+GCGAGAGAGGGACA-1,0,T cells,T cells
+GCGAGCACTGTCGA-1,1,B cells,B cells
+GCGAGCACTTGACG-1,0,T cells,T cells
+GCGAGCACTTGCTT-1,2,Monocytes,Monocytes
+GCGATATGGTACGT-1,0,T cells,T cells
+GCGATATGGTGTTG-1,0,T cells,T cells
+GCGCACGAAGTCGT-1,0,T cells,T cells
+GCGCACGACTTTAC-1,2,Monocytes,Monocytes
+GCGCATCTAGGTCT-1,0,T cells,T cells
+GCGCATCTGGTTAC-1,6,Monocytes,Unknown
+GCGCATCTTCGATG-1,0,T cells,T cells
+GCGCATCTTGCTCC-1,3,NK cells,NK cells
+GCGCATCTTTCTAC-1,0,T cells,T cells
+GCGCGAACGTTCTT-1,1,B cells,B cells
+GCGCGATGAACGGG-1,0,T cells,T cells
+GCGCGATGGTGCAT-1,3,NK cells,NK cells
+GCGGAGCTCCTGAA-1,0,T cells,T cells
+GCGGCAACCCGATA-1,0,T cells,T cells
+GCGGCAACGGAGGT-1,1,B cells,B cells
+GCGGCAACTGTCGA-1,2,Monocytes,Monocytes
+GCGTAAACACGGTT-1,5,Monocytes,Unknown
+GCGTAATGCACCAA-1,4,Monocytes,Monocytes
+GCGTATGAACACCA-1,0,T cells,T cells
+GCGTATGATGAGAA-1,2,Monocytes,Monocytes
+GCTACAGAAAGGTA-1,0,T cells,T cells
+GCTACAGAATCTTC-1,1,B cells,B cells
+GCTACAGATCTTAC-1,0,T cells,T cells
+GCTACCTGAGAAGT-1,2,Monocytes,Monocytes
+GCTACCTGATCACG-1,0,T cells,T cells
+GCTACGCTAGAATG-1,0,T cells,T cells
+GCTACGCTAGCTAC-1,0,T cells,T cells
+GCTACGCTCCCTAC-1,0,T cells,T cells
+GCTAGAACAGAGGC-1,1,B cells,B cells
+GCTAGAACGGATCT-1,0,T cells,T cells
+GCTAGAACTCCCGT-1,0,T cells,T cells
+GCTAGATGAGCTCA-1,2,Monocytes,Monocytes
+GCTAGATGGCGATT-1,3,NK cells,NK cells
+GCTATACTAAGGCG-1,0,T cells,T cells
+GCTATACTAGCGTT-1,3,NK cells,NK cells
+GCTATACTCTCTTA-1,0,T cells,T cells
+GCTATACTGGACGA-1,0,T cells,T cells
+GCTCAAGAACCATG-1,4,Monocytes,Monocytes
+GCTCAAGAAGTCAC-1,2,Monocytes,Monocytes
+GCTCAGCTGTCTAG-1,0,T cells,T cells
+GCTCCATGAGAAGT-1,3,NK cells,NK cells
+GCTCCATGCCGAAT-1,0,T cells,T cells
+GCTCGACTCTAGTG-1,2,Monocytes,Monocytes
+GCTGATGAGGTATC-1,2,Monocytes,Monocytes
+GCTTAACTACAGTC-1,2,Monocytes,Monocytes
+GCTTAACTACTGGT-1,3,NK cells,NK cells
+GCTTAACTGCTGAT-1,0,T cells,T cells
+GCTTAACTTAGACC-1,2,Monocytes,Monocytes
+GCTTAACTTCAGTG-1,0,T cells,T cells
+GGAACACTCACTTT-1,2,Monocytes,Monocytes
+GGAACACTTCAGAC-1,6,Monocytes,Unknown
+GGAACTACTACTTC-1,0,T cells,T cells
+GGAACTTGAAGGTA-1,2,Monocytes,Monocytes
+GGAACTTGAGAATG-1,0,T cells,T cells
+GGAACTTGCTCCAC-1,2,Monocytes,Monocytes
+GGAACTTGGGTAGG-1,1,B cells,B cells
+GGAAGGACATCGGT-1,2,Monocytes,Monocytes
+GGAAGGACCACTAG-1,0,T cells,T cells
+GGAAGGACGAGGGT-1,0,T cells,T cells
+GGAAGGACGCGAAG-1,0,T cells,T cells
+GGAAGGTGGCGAGA-1,3,NK cells,NK cells
+GGAATCTGAAGGGC-1,0,T cells,T cells
+GGAATCTGAGGAGC-1,0,T cells,T cells
+GGAATCTGCTTAGG-1,1,B cells,B cells
+GGAATCTGCTTGTT-1,2,Monocytes,Monocytes
+GGAATCTGGGAGGT-1,0,T cells,T cells
+GGAATGCTTTCTAC-1,0,T cells,T cells
+GGACAGGAAAGGGC-1,3,NK cells,NK cells
+GGACAGGAGTGCTA-1,1,B cells,B cells
+GGACAGGATCTCGC-1,0,T cells,T cells
+GGACCCGAAGCTAC-1,2,Monocytes,Monocytes
+GGACCGTGCTTACT-1,2,Monocytes,Monocytes
+GGACCGTGGGAACG-1,5,Monocytes,Unknown
+GGACCGTGTAACGC-1,0,T cells,T cells
+GGACCTCTGTAAGA-1,2,Monocytes,Monocytes
+GGACCTCTTTTCTG-1,3,NK cells,NK cells
+GGACGAGAGTGTCA-1,2,Monocytes,Monocytes
+GGACGCTGACGCAT-1,3,NK cells,NK cells
+GGACGCTGCTAGCA-1,0,T cells,T cells
+GGACGCTGTCCTCG-1,3,NK cells,NK cells
+GGAGAGACGTGAGG-1,1,B cells,B cells
+GGAGCAGATTCAGG-1,1,B cells,B cells
+GGAGCCACCTTCTA-1,1,B cells,B cells
+GGAGCGCTACGCAT-1,2,Monocytes,Monocytes
+GGAGCGCTCCGAAT-1,0,T cells,T cells
+GGAGGATGCCACCT-1,0,T cells,T cells
+GGAGGATGGTTGAC-1,2,Monocytes,Monocytes
+GGAGGATGTCAGTG-1,2,Monocytes,Monocytes
+GGAGGCCTCGTTGA-1,3,NK cells,NK cells
+GGAGGCCTTTCTTG-1,0,T cells,T cells
+GGAGGTGATACGCA-1,0,T cells,T cells
+GGAGGTGATCGCTC-1,0,T cells,T cells
+GGATACTGCAGCTA-1,0,T cells,T cells
+GGATACTGTCTAGG-1,0,T cells,T cells
+GGATAGCTCGTCTC-1,0,T cells,T cells
+GGATAGCTCTGAAC-1,3,NK cells,NK cells
+GGATGTACCAAAGA-1,1,B cells,B cells
+GGATGTACGCGAAG-1,0,T cells,T cells
+GGATGTACGTCTTT-1,2,Monocytes,Monocytes
+GGATGTACGTGTCA-1,3,NK cells,NK cells
+GGATTTCTAGGTTC-1,0,T cells,T cells
+GGATTTCTTTGTCT-1,2,Monocytes,Monocytes
+GGCAAGGAAAAAGC-1,3,NK cells,NK cells
+GGCAAGGAAGAAGT-1,0,T cells,T cells
+GGCAAGGACTTGGA-1,2,Monocytes,Monocytes
+GGCAAGGAGGACTT-1,0,T cells,T cells
+GGCAATACGCTAAC-1,1,B cells,B cells
+GGCAATACGGCATT-1,3,NK cells,NK cells
+GGCAATACGTTTCT-1,1,B cells,B cells
+GGCACGTGGCTTAG-1,4,Monocytes,Monocytes
+GGCACGTGTGAGAA-1,3,NK cells,NK cells
+GGCACTCTTTTGTC-1,0,T cells,T cells
+GGCATATGCTTATC-1,3,NK cells,NK cells
+GGCATATGGGGAGT-1,6,Monocytes,Unknown
+GGCATATGTGTGAC-1,3,NK cells,NK cells
+GGCCACGACAGAGG-1,0,T cells,T cells
+GGCCAGACTGGTTG-1,0,T cells,T cells
+GGCCCAGAAAGTAG-1,2,Monocytes,Monocytes
+GGCCGAACAACGAA-1,0,T cells,T cells
+GGCCGAACGCAGAG-1,0,T cells,T cells
+GGCCGAACGTAGGG-1,0,T cells,T cells
+GGCCGAACTCTAGG-1,3,NK cells,NK cells
+GGCCGATGCAGGAG-1,0,T cells,T cells
+GGCCGATGCCGAAT-1,0,T cells,T cells
+GGCCGATGTACTCT-1,3,NK cells,NK cells
+GGCGACACTGCCCT-1,3,NK cells,NK cells
+GGCGACTGCGTAAC-1,0,T cells,T cells
+GGCGCATGCCTAAG-1,4,Monocytes,Monocytes
+GGCGCATGCTCCAC-1,0,T cells,T cells
+GGCGCATGTGGAAA-1,0,T cells,T cells
+GGCGGACTAGAGGC-1,0,T cells,T cells
+GGCGGACTAGGAGC-1,3,NK cells,NK cells
+GGCGGACTCTGACA-1,0,T cells,T cells
+GGCGGACTCTTGGA-1,3,NK cells,NK cells
+GGCGGACTTACTGG-1,0,T cells,T cells
+GGCGGACTTGAACC-1,0,T cells,T cells
+GGCTAAACACCTGA-1,3,NK cells,NK cells
+GGCTAAACTCTTAC-1,0,T cells,T cells
+GGCTAATGAGCACT-1,3,NK cells,NK cells
+GGCTAATGGTCTAG-1,0,T cells,T cells
+GGCTCACTACTCAG-1,2,Monocytes,Monocytes
+GGGAACGAAGCTCA-1,4,Monocytes,Monocytes
+GGGAACGACACAAC-1,1,B cells,B cells
+GGGAACGAGTGTCA-1,2,Monocytes,Monocytes
+GGGAAGTGTTGAGC-1,2,Monocytes,Monocytes
+GGGACCACACGTTG-1,3,NK cells,NK cells
+GGGACCACAGAACA-1,0,T cells,T cells
+GGGACCACGAATAG-1,0,T cells,T cells
+GGGACCACGTCATG-1,0,T cells,T cells
+GGGACCACTCAAGC-1,0,T cells,T cells
+GGGACCACTCGTGA-1,0,T cells,T cells
+GGGACCACTGCATG-1,0,T cells,T cells
+GGGACCTGACCCTC-1,2,Monocytes,Monocytes
+GGGACCTGCTTGCC-1,0,T cells,T cells
+GGGACCTGTGGAGG-1,1,B cells,B cells
+GGGATGGACGACAT-1,1,B cells,B cells
+GGGATGGATACTTC-1,0,T cells,T cells
+GGGATGGATGGTTG-1,2,Monocytes,Monocytes
+GGGATTACGTCTAG-1,0,T cells,T cells
+GGGCAAGATGCATG-1,2,Monocytes,Monocytes
+GGGCACACGGTGAG-1,4,Monocytes,Monocytes
+GGGCACACGTTGCA-1,0,T cells,T cells
+GGGCAGCTTGGGAG-1,3,NK cells,NK cells
+GGGCAGCTTTTCTG-1,0,T cells,T cells
+GGGCCAACCTTGGA-1,5,Monocytes,Unknown
+GGGCCAACGCGTTA-1,1,B cells,B cells
+GGGCCAACTACGCA-1,2,Monocytes,Monocytes
+GGGCCAACTCCAAG-1,1,B cells,B cells
+GGGCCATGATGGTC-1,3,NK cells,NK cells
+GGGCCATGTTGACG-1,0,T cells,T cells
+GGGTAACTCAGCTA-1,0,T cells,T cells
+GGGTAACTCTAGTG-1,1,B cells,B cells
+GGGTAACTCTGGAT-1,0,T cells,T cells
+GGGTTAACGTGCAT-1,3,NK cells,NK cells
+GGTAAAGAGCTAAC-1,3,NK cells,NK cells
+GGTACAACTGCAAC-1,0,T cells,T cells
+GGTACATGAAAGCA-1,1,B cells,B cells
+GGTACATGAGCTCA-1,0,T cells,T cells
+GGTACATGCGGTAT-1,0,T cells,T cells
+GGTACATGGTTACG-1,0,T cells,T cells
+GGTACATGTGGGAG-1,0,T cells,T cells
+GGTACTGAACTCTT-1,2,Monocytes,Monocytes
+GGTAGTACACCACA-1,3,NK cells,NK cells
+GGTAGTACACTAGC-1,2,Monocytes,Monocytes
+GGTAGTACCCTGTC-1,0,T cells,T cells
+GGTAGTACGCCATA-1,2,Monocytes,Monocytes
+GGTAGTACTGTCTT-1,0,T cells,T cells
+GGTATCGAGACAAA-1,2,Monocytes,Monocytes
+GGTATCGATGAACC-1,1,B cells,B cells
+GGTCAAACCAAAGA-1,0,T cells,T cells
+GGTCTAGAGAAACA-1,2,Monocytes,Monocytes
+GGTCTAGATAGCGT-1,2,Monocytes,Monocytes
+GGTGATACCGACTA-1,1,B cells,B cells
+GGTGATACGACTAC-1,2,Monocytes,Monocytes
+GGTGATACTGTTTC-1,0,T cells,T cells
+GGTGGAGAAACGGG-1,3,NK cells,NK cells
+GGTGGAGAAGTAGA-1,0,T cells,T cells
+GGTGGAGACAGATC-1,3,NK cells,NK cells
+GGTGGAGATCGATG-1,0,T cells,T cells
+GGTGGAGATCTCTA-1,2,Monocytes,Monocytes
+GGTGGAGATTACTC-1,3,NK cells,NK cells
+GGTTTACTACGCAT-1,3,NK cells,NK cells
+GTAACGTGACCTCC-1,2,Monocytes,Monocytes
+GTAACGTGATCGGT-1,1,B cells,B cells
+GTAACGTGCAGCTA-1,1,B cells,B cells
+GTAACGTGGTTGAC-1,1,B cells,B cells
+GTAAGCACAACGGG-1,0,T cells,T cells
+GTAAGCACTCATTC-1,1,B cells,B cells
+GTAAGCTGGTACCA-1,2,Monocytes,Monocytes
+GTAATAACCTTCTA-1,2,Monocytes,Monocytes
+GTAATAACGTTGTG-1,0,T cells,T cells
+GTACCCTGACAGTC-1,4,Monocytes,Monocytes
+GTACCCTGGAGCTT-1,0,T cells,T cells
+GTACCCTGTCCTTA-1,3,NK cells,NK cells
+GTACCCTGTGAACC-1,0,T cells,T cells
+GTACGTGAACGTTG-1,3,NK cells,NK cells
+GTACTTTGTCGACA-1,3,NK cells,NK cells
+GTAGACTGAGATGA-1,2,Monocytes,Monocytes
+GTAGACTGTATTCC-1,0,T cells,T cells
+GTAGCAACAGTCGT-1,2,Monocytes,Monocytes
+GTAGCAACCATTTC-1,1,B cells,B cells
+GTAGCAACGGTAGG-1,2,Monocytes,Monocytes
+GTAGCATGCACTCC-1,1,B cells,B cells
+GTAGCATGTAAGCC-1,2,Monocytes,Monocytes
+GTAGCCCTGACGTT-1,0,T cells,T cells
+GTAGCTGAAGCTAC-1,4,Monocytes,Monocytes
+GTAGCTGAATTCGG-1,0,T cells,T cells
+GTAGGTACACGGGA-1,2,Monocytes,Monocytes
+GTAGTGACCTCATT-1,0,T cells,T cells
+GTAGTGTGAGCGGA-1,3,NK cells,NK cells
+GTAGTGTGAGGCGA-1,2,Monocytes,Monocytes
+GTAGTGTGTGGTTG-1,0,T cells,T cells
+GTATCACTGGTAGG-1,2,Monocytes,Monocytes
+GTATCTACAGAAGT-1,3,NK cells,NK cells
+GTATCTACGACGAG-1,3,NK cells,NK cells
+GTATCTACGTTACG-1,0,T cells,T cells
+GTATTAGAAACAGA-1,3,NK cells,NK cells
+GTATTAGAGGTCTA-1,0,T cells,T cells
+GTATTCACACAGCT-1,0,T cells,T cells
+GTATTCACGGGTGA-1,3,NK cells,NK cells
+GTCAACGACACTGA-1,0,T cells,T cells
+GTCAACGAGTGTAC-1,2,Monocytes,Monocytes
+GTCAACGATCAGGT-1,0,T cells,T cells
+GTCAATCTACACCA-1,3,NK cells,NK cells
+GTCAATCTGTAGCT-1,3,NK cells,NK cells
+GTCAATCTTGTGGT-1,0,T cells,T cells
+GTCACCTGCCTCCA-1,0,T cells,T cells
+GTCACCTGTCCCGT-1,0,T cells,T cells
+GTCATACTAATCGC-1,1,B cells,B cells
+GTCATACTGCGATT-1,3,NK cells,NK cells
+GTCATACTTCGCCT-1,6,Monocytes,Unknown
+GTCATACTTTACCT-1,3,NK cells,NK cells
+GTCATACTTTGACG-1,0,T cells,T cells
+GTCCAAGAAAAACG-1,0,T cells,T cells
+GTCCACTGACCTCC-1,0,T cells,T cells
+GTCCACTGGGTACT-1,4,Monocytes,Monocytes
+GTCCAGCTACGGGA-1,0,T cells,T cells
+GTCCCATGTGGTGT-1,2,Monocytes,Monocytes
+GTCGAATGAAGGCG-1,2,Monocytes,Monocytes
+GTCGACCTGAATGA-1,3,NK cells,NK cells
+GTCGACCTGTTCAG-1,0,T cells,T cells
+GTCGCACTTGAGAA-1,1,B cells,B cells
+GTCTAACTGGTCTA-1,4,Monocytes,Monocytes
+GTCTAGGAGCTTCC-1,2,Monocytes,Monocytes
+GTGAACACACTCTT-1,0,T cells,T cells
+GTGAACACTCAGGT-1,0,T cells,T cells
+GTGACCCTTAAGCC-1,0,T cells,T cells
+GTGATGACAAGTGA-1,0,T cells,T cells
+GTGATGACCTGAGT-1,1,B cells,B cells
+GTGATGACGGTTTG-1,3,NK cells,NK cells
+GTGATTCTCATTTC-1,0,T cells,T cells
+GTGATTCTCTCTCG-1,2,Monocytes,Monocytes
+GTGATTCTGGTTCA-1,3,NK cells,NK cells
+GTGATTCTGTCGAT-1,0,T cells,T cells
+GTGATTCTTAGCGT-1,1,B cells,B cells
+GTGCCACTCAGGAG-1,0,T cells,T cells
+GTGGATTGCACTAG-1,4,Monocytes,Monocytes
+GTGGATTGCGGAGA-1,0,T cells,T cells
+GTGGATTGTAACGC-1,0,T cells,T cells
+GTGTACGATCAGTG-1,0,T cells,T cells
+GTGTAGTGGGTACT-1,0,T cells,T cells
+GTGTATCTAGCCTA-1,1,B cells,B cells
+GTGTATCTAGTAGA-1,3,NK cells,NK cells
+GTGTATCTGTTACG-1,1,B cells,B cells
+GTGTCAGAAGCGTT-1,3,NK cells,NK cells
+GTGTCAGAATGCTG-1,0,T cells,T cells
+GTTAAAACCGAGAG-1,3,NK cells,NK cells
+GTTAAAACTTCGCC-1,0,T cells,T cells
+GTTAAATGCTCGAA-1,0,T cells,T cells
+GTTAAATGTCGACA-1,1,B cells,B cells
+GTTAACCTAGCTAC-1,0,T cells,T cells
+GTTAACCTTGCTTT-1,5,Monocytes,Unknown
+GTTAGGTGCACTCC-1,0,T cells,T cells
+GTTAGGTGCCAGTA-1,2,Monocytes,Monocytes
+GTTAGGTGCCCAAA-1,4,Monocytes,Monocytes
+GTTAGGTGGAACTC-1,1,B cells,B cells
+GTTAGTCTAAGAAC-1,3,NK cells,NK cells
+GTTATAGAGGACAG-1,0,T cells,T cells
+GTTATGCTTTCATC-1,0,T cells,T cells
+GTTCAACTGGGACA-1,3,NK cells,NK cells
+GTTCAACTTATGCG-1,0,T cells,T cells
+GTTGACGAGCCCTT-1,3,NK cells,NK cells
+GTTGACGATATCGG-1,3,NK cells,NK cells
+GTTGAGTGGTCTTT-1,2,Monocytes,Monocytes
+GTTGAGTGTGCTTT-1,0,T cells,T cells
+GTTGATCTGGGACA-1,0,T cells,T cells
+GTTGATCTTTTCAC-1,3,NK cells,NK cells
+GTTGGATGTTTACC-1,4,Monocytes,Monocytes
+GTTGTACTATTCCT-1,2,Monocytes,Monocytes
+GTTGTACTTTTGGG-1,0,T cells,T cells
+GTTTAAGACCATGA-1,2,Monocytes,Monocytes
+GTTTAAGACTGTCC-1,3,NK cells,NK cells
+TAAACAACCAACCA-1,0,T cells,T cells
+TAAACAACGAATCC-1,1,B cells,B cells
+TAAAGACTCAGGAG-1,0,T cells,T cells
+TAAATCGATGAGGG-1,0,T cells,T cells
+TAACAATGTGCCCT-1,1,B cells,B cells
+TAACACCTTCGCTC-1,2,Monocytes,Monocytes
+TAACACCTTCGTAG-1,2,Monocytes,Monocytes
+TAACACCTTGTTTC-1,6,Monocytes,Unknown
+TAACATGACACTAG-1,1,B cells,B cells
+TAACCGGACTTACT-1,0,T cells,T cells
+TAACGTCTCAACCA-1,2,Monocytes,Monocytes
+TAACGTCTCATTGG-1,0,T cells,T cells
+TAACTAGAATTTCC-1,0,T cells,T cells
+TAACTAGACTTAGG-1,0,T cells,T cells
+TAACTAGATCTGGA-1,0,T cells,T cells
+TAACTCACGAGGAC-1,2,Monocytes,Monocytes
+TAACTCACGTACAC-1,1,B cells,B cells
+TAACTCACGTATCG-1,2,Monocytes,Monocytes
+TAACTCACTCTACT-1,3,NK cells,NK cells
+TAAGAACTGTGTCA-1,2,Monocytes,Monocytes
+TAAGAGGACTAAGC-1,1,B cells,B cells
+TAAGAGGACTTGTT-1,3,NK cells,NK cells
+TAAGATACCCACAA-1,0,T cells,T cells
+TAAGATACGGTTCA-1,2,Monocytes,Monocytes
+TAAGATTGCGTAGT-1,0,T cells,T cells
+TAAGATTGTTGCTT-1,0,T cells,T cells
+TAAGCGTGAGGTTC-1,2,Monocytes,Monocytes
+TAAGCGTGGACAAA-1,2,Monocytes,Monocytes
+TAAGCGTGGGAAAT-1,0,T cells,T cells
+TAAGCGTGTGCTCC-1,4,Monocytes,Monocytes
+TAAGGCTGCCATGA-1,0,T cells,T cells
+TAAGGCTGCTGCTC-1,0,T cells,T cells
+TAAGGCTGTCTCGC-1,2,Monocytes,Monocytes
+TAAGGGCTGCTGTA-1,0,T cells,T cells
+TAAGGGCTTTACTC-1,0,T cells,T cells
+TAAGTAACCGAGAG-1,1,B cells,B cells
+TAAGTAACCTCCAC-1,1,B cells,B cells
+TAAGTAACCTGTAG-1,0,T cells,T cells
+TAAGTAACTTGTCT-1,0,T cells,T cells
+TAATGATGAGCGGA-1,0,T cells,T cells
+TAATGCCTCATGAC-1,0,T cells,T cells
+TAATGCCTCGTCTC-1,3,NK cells,NK cells
+TAATGTGAAGATGA-1,0,T cells,T cells
+TAATGTGACTGCAA-1,2,Monocytes,Monocytes
+TAATGTGATTACTC-1,0,T cells,T cells
+TACAAATGGGTACT-1,0,T cells,T cells
+TACAATGAAAACAG-1,2,Monocytes,Monocytes
+TACAATGACTTAGG-1,0,T cells,T cells
+TACAATGATGCTAG-1,3,NK cells,NK cells
+TACACACTCACACA-1,0,T cells,T cells
+TACACACTCTTACT-1,0,T cells,T cells
+TACATAGAACGCAT-1,3,NK cells,NK cells
+TACATCACACGGGA-1,0,T cells,T cells
+TACATCACCTGTTT-1,4,Monocytes,Monocytes
+TACATCACGCTAAC-1,1,B cells,B cells
+TACATCACTGAACC-1,4,Monocytes,Monocytes
+TACCATTGAGGTTC-1,0,T cells,T cells
+TACCATTGCGGGAA-1,2,Monocytes,Monocytes
+TACCATTGGGGATG-1,2,Monocytes,Monocytes
+TACCATTGTGAGGG-1,2,Monocytes,Monocytes
+TACCGGCTGTTGGT-1,0,T cells,T cells
+TACGAGTGATCTCT-1,0,T cells,T cells
+TACGAGTGATGCTG-1,2,Monocytes,Monocytes
+TACGAGTGCGGAGA-1,0,T cells,T cells
+TACGAGTGGTTGGT-1,0,T cells,T cells
+TACGATCTAGTGTC-1,0,T cells,T cells
+TACGATCTCACTGA-1,4,Monocytes,Monocytes
+TACGATCTTACGAC-1,3,NK cells,NK cells
+TACGCAGAGAATCC-1,3,NK cells,NK cells
+TACGCCACATTCCT-1,0,T cells,T cells
+TACGCCACTCCCAC-1,4,Monocytes,Monocytes
+TACGCCACTCCGAA-1,1,B cells,B cells
+TACGCGCTCTTCTA-1,3,NK cells,NK cells
+TACGGAACGCGTTA-1,1,B cells,B cells
+TACGGCCTGGGACA-1,3,NK cells,NK cells
+TACGGCCTGTCCTC-1,0,T cells,T cells
+TACGTACTACGGAG-1,0,T cells,T cells
+TACGTACTCAGTTG-1,0,T cells,T cells
+TACGTACTCCCGTT-1,1,B cells,B cells
+TACGTTACAGAAGT-1,0,T cells,T cells
+TACGTTACCAAGCT-1,2,Monocytes,Monocytes
+TACTAAGAAAGGTA-1,1,B cells,B cells
+TACTAAGAATCACG-1,0,T cells,T cells
+TACTAAGATGATGC-1,2,Monocytes,Monocytes
+TACTAAGATTGCGA-1,0,T cells,T cells
+TACTACACGAGAGC-1,0,T cells,T cells
+TACTACACTTACCT-1,0,T cells,T cells
+TACTACTGAACCTG-1,2,Monocytes,Monocytes
+TACTACTGATGTCG-1,3,NK cells,NK cells
+TACTACTGATTCTC-1,0,T cells,T cells
+TACTACTGTATGGC-1,0,T cells,T cells
+TACTCAACGGTCTA-1,2,Monocytes,Monocytes
+TACTCAACTGCTAG-1,1,B cells,B cells
+TACTCCCTCAGTTG-1,0,T cells,T cells
+TACTCTGAATCGAC-1,3,NK cells,NK cells
+TACTCTGACGAGTT-1,0,T cells,T cells
+TACTCTGATTGACG-1,1,B cells,B cells
+TACTGGGATCGATG-1,0,T cells,T cells
+TACTGTTGAAAGCA-1,0,T cells,T cells
+TACTGTTGAGGCGA-1,3,NK cells,NK cells
+TACTGTTGCTGAAC-1,1,B cells,B cells
+TACTTGACTCCTCG-1,3,NK cells,NK cells
+TACTTGACTGGTGT-1,1,B cells,B cells
+TACTTTCTTTTGGG-1,3,NK cells,NK cells
+TAGAAACTAATCGC-1,0,T cells,T cells
+TAGAAACTGCTTCC-1,2,Monocytes,Monocytes
+TAGAAACTGGGATG-1,3,NK cells,NK cells
+TAGAATTGCGACAT-1,0,T cells,T cells
+TAGAATTGTATCGG-1,0,T cells,T cells
+TAGACGTGCTTGAG-1,0,T cells,T cells
+TAGACGTGTCGCTC-1,0,T cells,T cells
+TAGAGCACCTTACT-1,1,B cells,B cells
+TAGATTGACTTGTT-1,1,B cells,B cells
+TAGATTGAGGCATT-1,3,NK cells,NK cells
+TAGCATCTCAGCTA-1,3,NK cells,NK cells
+TAGCATCTCCCTCA-1,0,T cells,T cells
+TAGCATCTGCTGTA-1,4,Monocytes,Monocytes
+TAGCATCTGGGACA-1,0,T cells,T cells
+TAGCATCTTGTCGA-1,0,T cells,T cells
+TAGCCCACAAAAGC-1,0,T cells,T cells
+TAGCCCACAGCCAT-1,3,NK cells,NK cells
+TAGCCCACAGCTAC-1,3,NK cells,NK cells
+TAGCCCACCCACAA-1,0,T cells,T cells
+TAGCCCTGCGGAGA-1,3,NK cells,NK cells
+TAGCCGCTTACGAC-1,0,T cells,T cells
+TAGCCGCTTACTTC-1,3,NK cells,NK cells
+TAGCCGCTTTCCAT-1,2,Monocytes,Monocytes
+TAGCTACTGAATAG-1,1,B cells,B cells
+TAGCTACTGTAGCT-1,0,T cells,T cells
+TAGCTACTTTTGCT-1,3,NK cells,NK cells
+TAGGACTGTGCTGA-1,0,T cells,T cells
+TAGGAGCTAAGGCG-1,1,B cells,B cells
+TAGGAGCTGAGGGT-1,0,T cells,T cells
+TAGGAGCTTGCATG-1,1,B cells,B cells
+TAGGCAACCGTCTC-1,1,B cells,B cells
+TAGGCATGCTCTCG-1,5,Monocytes,Unknown
+TAGGCATGGCGAGA-1,3,NK cells,NK cells
+TAGGCTGATGCCTC-1,2,Monocytes,Monocytes
+TAGGGACTGAACTC-1,3,NK cells,NK cells
+TAGGTCGACACTGA-1,0,T cells,T cells
+TAGGTCGAGGATCT-1,1,B cells,B cells
+TAGGTGACACACTG-1,0,T cells,T cells
+TAGGTGACACGTTG-1,1,B cells,B cells
+TAGGTGTGTTCTGT-1,0,T cells,T cells
+TAGGTTCTGAAGGC-1,0,T cells,T cells
+TAGGTTCTTCTTAC-1,4,Monocytes,Monocytes
+TAGGTTCTTGCTGA-1,2,Monocytes,Monocytes
+TAGTAAACCTCGCT-1,0,T cells,T cells
+TAGTAAACGTCACA-1,0,T cells,T cells
+TAGTAATGAGATCC-1,0,T cells,T cells
+TAGTACCTAAGAAC-1,2,Monocytes,Monocytes
+TAGTATGATCTTAC-1,1,B cells,B cells
+TAGTATGATTCTCA-1,0,T cells,T cells
+TAGTCTTGGCTGTA-1,0,T cells,T cells
+TAGTCTTGGGACTT-1,3,NK cells,NK cells
+TAGTCTTGTGGAAA-1,3,NK cells,NK cells
+TAGTGGTGAAGTGA-1,3,NK cells,NK cells
+TAGTTAGAACCACA-1,3,NK cells,NK cells
+TAGTTAGATGAACC-1,0,T cells,T cells
+TATAAGACAACAGA-1,0,T cells,T cells
+TATAAGACAGCTCA-1,4,Monocytes,Monocytes
+TATAAGTGACACCA-1,4,Monocytes,Monocytes
+TATAAGTGTATCGG-1,2,Monocytes,Monocytes
+TATAAGTGTGGTGT-1,4,Monocytes,Monocytes
+TATACAGAACCCTC-1,3,NK cells,NK cells
+TATACAGAAGAACA-1,0,T cells,T cells
+TATACAGATCCAGA-1,0,T cells,T cells
+TATACCACCTGATG-1,1,B cells,B cells
+TATACGCTACCAAC-1,0,T cells,T cells
+TATAGATGGACGGA-1,0,T cells,T cells
+TATAGATGTTCCGC-1,4,Monocytes,Monocytes
+TATCACTGACTGTG-1,2,Monocytes,Monocytes
+TATCCAACCAGCTA-1,2,Monocytes,Monocytes
+TATCCAACTCTCTA-1,3,NK cells,NK cells
+TATCGACTACTAGC-1,3,NK cells,NK cells
+TATCGACTCGATAC-1,4,Monocytes,Monocytes
+TATCGTACAGATGA-1,3,NK cells,NK cells
+TATCGTACATTCCT-1,2,Monocytes,Monocytes
+TATCTCGAGAGATA-1,0,T cells,T cells
+TATCTGACAGGTTC-1,3,NK cells,NK cells
+TATCTGACTGTTTC-1,0,T cells,T cells
+TATCTTCTAAACAG-1,0,T cells,T cells
+TATGAATGGAGGAC-1,3,NK cells,NK cells
+TATGAATGTTTGCT-1,4,Monocytes,Monocytes
+TATGCGGATAACCG-1,0,T cells,T cells
+TATGGGTGCATCAG-1,3,NK cells,NK cells
+TATGGGTGCTAGCA-1,1,B cells,B cells
+TATGGTCTCTACCC-1,0,T cells,T cells
+TATGTCACGGAACG-1,1,B cells,B cells
+TATGTCACTAACCG-1,2,Monocytes,Monocytes
+TATGTCACTTCTCA-1,1,B cells,B cells
+TATGTGCTCCGATA-1,2,Monocytes,Monocytes
+TATGTGCTGGATTC-1,0,T cells,T cells
+TATTGCTGAAGAAC-1,2,Monocytes,Monocytes
+TATTGCTGCCGTTC-1,1,B cells,B cells
+TATTGCTGTCTGGA-1,0,T cells,T cells
+TATTGCTGTGCACA-1,3,NK cells,NK cells
+TATTTCCTATTGGC-1,2,Monocytes,Monocytes
+TATTTCCTGGAGGT-1,3,NK cells,NK cells
+TATTTCCTGGTGTT-1,0,T cells,T cells
+TCAACACTGTTTGG-1,3,NK cells,NK cells
+TCAAGGACAGCGTT-1,0,T cells,T cells
+TCAAGGACATTCTC-1,3,NK cells,NK cells
+TCAAGGACGGTGTT-1,2,Monocytes,Monocytes
+TCAATCACACTCTT-1,3,NK cells,NK cells
+TCAATCACAGTCGT-1,4,Monocytes,Monocytes
+TCACAACTATGTGC-1,0,T cells,T cells
+TCACAACTTTGCTT-1,2,Monocytes,Monocytes
+TCACATACACTTTC-1,0,T cells,T cells
+TCACATACAGGGTG-1,0,T cells,T cells
+TCACCCGAGACGGA-1,2,Monocytes,Monocytes
+TCACCGTGCTCGCT-1,4,Monocytes,Monocytes
+TCACCTCTACGACT-1,3,NK cells,NK cells
+TCACCTCTTCCAAG-1,4,Monocytes,Monocytes
+TCACGAGAGGAGGT-1,1,B cells,B cells
+TCACTATGGGGCAA-1,3,NK cells,NK cells
+TCACTATGGTTGTG-1,1,B cells,B cells
+TCAGACGACGCTAA-1,0,T cells,T cells
+TCAGACGACGTTAG-1,3,NK cells,NK cells
+TCAGAGACTCCAGA-1,0,T cells,T cells
+TCAGCAGACTCCAC-1,0,T cells,T cells
+TCAGCGCTCTAGTG-1,3,NK cells,NK cells
+TCAGCGCTGGATCT-1,1,B cells,B cells
+TCAGCGCTGGTATC-1,3,NK cells,NK cells
+TCAGGATGAAGTAG-1,0,T cells,T cells
+TCAGGATGCCTTTA-1,4,Monocytes,Monocytes
+TCAGTGGAAGATCC-1,3,NK cells,NK cells
+TCAGTTACCTACGA-1,2,Monocytes,Monocytes
+TCAGTTACTAGAAG-1,0,T cells,T cells
+TCATCAACCCGATA-1,0,T cells,T cells
+TCATCAACTGTTCT-1,2,Monocytes,Monocytes
+TCATCATGCAGTTG-1,0,T cells,T cells
+TCATCCCTTACTGG-1,0,T cells,T cells
+TCATTCGATACAGC-1,4,Monocytes,Monocytes
+TCCACGTGGAAACA-1,0,T cells,T cells
+TCCACTCTACACTG-1,0,T cells,T cells
+TCCACTCTGAGCTT-1,2,Monocytes,Monocytes
+TCCACTCTTACTTC-1,1,B cells,B cells
+TCCATAACAAAGTG-1,0,T cells,T cells
+TCCATAACCGTAGT-1,1,B cells,B cells
+TCCATAACGATGAA-1,0,T cells,T cells
+TCCATAACTACGCA-1,0,T cells,T cells
+TCCATCCTCCCTAC-1,3,NK cells,NK cells
+TCCCACGATCATTC-1,0,T cells,T cells
+TCCCATCTCAAAGA-1,2,Monocytes,Monocytes
+TCCCGAACACAGTC-1,3,NK cells,NK cells
+TCCCGAACTTCGCC-1,4,Monocytes,Monocytes
+TCCCGATGAGATCC-1,0,T cells,T cells
+TCCCGATGCCTGAA-1,2,Monocytes,Monocytes
+TCCCGATGCTGTGA-1,0,T cells,T cells
+TCCCTACTCAACTG-1,1,B cells,B cells
+TCCGAAGACAATCG-1,2,Monocytes,Monocytes
+TCCGAAGACGTTAG-1,0,T cells,T cells
+TCCGGACTGAGGTG-1,0,T cells,T cells
+TCCGGACTGTACGT-1,3,NK cells,NK cells
+TCCTAAACATCGAC-1,0,T cells,T cells
+TCCTAAACCGAGAG-1,0,T cells,T cells
+TCCTAAACCGCATA-1,3,NK cells,NK cells
+TCCTAATGGTTTGG-1,3,NK cells,NK cells
+TCCTACCTGTCGTA-1,0,T cells,T cells
+TCCTATGAAAAGCA-1,3,NK cells,NK cells
+TCGAATCTCTGGTA-1,3,NK cells,NK cells
+TCGACCTGCCGATA-1,4,Monocytes,Monocytes
+TCGACGCTTCTATC-1,2,Monocytes,Monocytes
+TCGACGCTTTGACG-1,0,T cells,T cells
+TCGAGAACGACAGG-1,0,T cells,T cells
+TCGAGAACGTTAGC-1,0,T cells,T cells
+TCGAGCCTATCAGC-1,1,B cells,B cells
+TCGAGCCTGCGAGA-1,3,NK cells,NK cells
+TCGAGCCTTGTGAC-1,0,T cells,T cells
+TCGATACTATTCCT-1,0,T cells,T cells
+TCGATACTTGCACA-1,0,T cells,T cells
+TCGATTTGATGCCA-1,2,Monocytes,Monocytes
+TCGATTTGCACTCC-1,0,T cells,T cells
+TCGATTTGCAGCTA-1,3,NK cells,NK cells
+TCGATTTGCCTACC-1,2,Monocytes,Monocytes
+TCGATTTGTCGTGA-1,1,B cells,B cells
+TCGCACACCATCAG-1,2,Monocytes,Monocytes
+TCGCAGCTAGATCC-1,3,NK cells,NK cells
+TCGCCATGAGACTC-1,0,T cells,T cells
+TCGCCATGTGGTCA-1,1,B cells,B cells
+TCGGACCTAACAGA-1,0,T cells,T cells
+TCGGACCTATAAGG-1,1,B cells,B cells
+TCGGACCTGTACAC-1,0,T cells,T cells
+TCGGTAGAGTAGGG-1,0,T cells,T cells
+TCGGTAGATCCCAC-1,1,B cells,B cells
+TCGTAGGATCGACA-1,0,T cells,T cells
+TCGTGAGAACTGTG-1,1,B cells,B cells
+TCGTTATGGACAAA-1,0,T cells,T cells
+TCTAACACCAGTTG-1,3,NK cells,NK cells
+TCTAACACGAGCAG-1,5,Monocytes,Unknown
+TCTAACTGAACCAC-1,0,T cells,T cells
+TCTAAGCTAATGCC-1,0,T cells,T cells
+TCTAAGCTTAGTCG-1,3,NK cells,NK cells
+TCTAAGCTTCTAGG-1,4,Monocytes,Monocytes
+TCTAAGCTTGTTCT-1,2,Monocytes,Monocytes
+TCTAAGCTTTCGCC-1,1,B cells,B cells
+TCTACAACGACTAC-1,2,Monocytes,Monocytes
+TCTAGACTTAGAAG-1,2,Monocytes,Monocytes
+TCTAGTTGCACCAA-1,4,Monocytes,Monocytes
+TCTATGTGAAGAGT-1,2,Monocytes,Monocytes
+TCTATGTGAGTCTG-1,3,NK cells,NK cells
+TCTCAAACCTAAGC-1,1,B cells,B cells
+TCTCTAGAATTTCC-1,0,T cells,T cells
+TCTGATACACGTGT-1,0,T cells,T cells
+TCTGATACTCGCCT-1,0,T cells,T cells
+TCTTACGAACCTGA-1,2,Monocytes,Monocytes
+TCTTCAGAGCTACA-1,2,Monocytes,Monocytes
+TCTTGATGCGGAGA-1,3,NK cells,NK cells
+TGAAATTGGTGAGG-1,2,Monocytes,Monocytes
+TGAACCGAAAACGA-1,0,T cells,T cells
+TGAACCGACTACTT-1,4,Monocytes,Monocytes
+TGAACCGATTCGGA-1,4,Monocytes,Monocytes
+TGAAGCACTCACGA-1,0,T cells,T cells
+TGAAGCTGAACGAA-1,0,T cells,T cells
+TGAAGCTGAGACTC-1,0,T cells,T cells
+TGAAGCTGCATGGT-1,1,B cells,B cells
+TGAAGCTGCGTAAC-1,0,T cells,T cells
+TGAATAACCACTTT-1,0,T cells,T cells
+TGAATAACTCCCAC-1,3,NK cells,NK cells
+TGACACGACCTTAT-1,1,B cells,B cells
+TGACCAGACAACCA-1,0,T cells,T cells
+TGACCAGAGGATTC-1,0,T cells,T cells
+TGACCGCTAAAAGC-1,0,T cells,T cells
+TGACCGCTCTGCAA-1,0,T cells,T cells
+TGACGATGCAAAGA-1,2,Monocytes,Monocytes
+TGACGCCTGTACCA-1,3,NK cells,NK cells
+TGACGCCTTTACTC-1,0,T cells,T cells
+TGACTGGAAGAGAT-1,2,Monocytes,Monocytes
+TGACTGGACCGTAA-1,0,T cells,T cells
+TGACTGGACGCAAT-1,0,T cells,T cells
+TGACTGGAGGACAG-1,1,B cells,B cells
+TGACTGGATTCTCA-1,0,T cells,T cells
+TGACTTACACACCA-1,0,T cells,T cells
+TGACTTACAGTCTG-1,2,Monocytes,Monocytes
+TGACTTTGCGCATA-1,0,T cells,T cells
+TGACTTTGTTTGTC-1,0,T cells,T cells
+TGAGACACAAGGTA-1,0,T cells,T cells
+TGAGACACTCAAGC-1,3,NK cells,NK cells
+TGAGACACTGTGCA-1,0,T cells,T cells
+TGAGCTGAATGCTG-1,4,Monocytes,Monocytes
+TGAGCTGACTGGAT-1,2,Monocytes,Monocytes
+TGAGCTGAGCGAGA-1,0,T cells,T cells
+TGAGCTGATGCTAG-1,2,Monocytes,Monocytes
+TGAGGACTCTCATT-1,2,Monocytes,Monocytes
+TGAGGACTTCATTC-1,0,T cells,T cells
+TGAGGTACGAACCT-1,4,Monocytes,Monocytes
+TGAGTCGAGTTACG-1,1,B cells,B cells
+TGAGTGACTGAGCT-1,0,T cells,T cells
+TGATAAACGAATCC-1,0,T cells,T cells
+TGATAAACTCCGTC-1,3,NK cells,NK cells
+TGATAAACTTTCAC-1,0,T cells,T cells
+TGATACCTCACTAG-1,2,Monocytes,Monocytes
+TGATACCTGTTGGT-1,0,T cells,T cells
+TGATACCTTATGCG-1,0,T cells,T cells
+TGATACCTTGAAGA-1,0,T cells,T cells
+TGATATGAACCTTT-1,0,T cells,T cells
+TGATCACTAGCATC-1,3,NK cells,NK cells
+TGATCACTCTCGCT-1,0,T cells,T cells
+TGATCACTTCTACT-1,1,B cells,B cells
+TGATCGGACTGACA-1,4,Monocytes,Monocytes
+TGATCGGAGGAGCA-1,1,B cells,B cells
+TGATCGGATATGCG-1,2,Monocytes,Monocytes
+TGATTAGACATTGG-1,0,T cells,T cells
+TGATTAGATGACTG-1,1,B cells,B cells
+TGATTAGATGCTAG-1,0,T cells,T cells
+TGATTCACTATGCG-1,0,T cells,T cells
+TGATTCACTGTCAG-1,1,B cells,B cells
+TGATTCTGCCGAAT-1,0,T cells,T cells
+TGATTCTGCTCTTA-1,0,T cells,T cells
+TGCAAGTGAGAACA-1,0,T cells,T cells
+TGCAAGTGGGTAGG-1,2,Monocytes,Monocytes
+TGCAATCTTCAGGT-1,5,Monocytes,Unknown
+TGCACAGACGACAT-1,3,NK cells,NK cells
+TGCCAAGAGCAGTT-1,2,Monocytes,Monocytes
+TGCCAAGATCTCTA-1,0,T cells,T cells
+TGCCACTGAACGTC-1,0,T cells,T cells
+TGCCACTGCGATAC-1,3,NK cells,NK cells
+TGCCAGCTTGGCAT-1,0,T cells,T cells
+TGCCCAACAGCAAA-1,0,T cells,T cells
+TGCCCAACCGCATA-1,4,Monocytes,Monocytes
+TGCCGACTCTCCCA-1,1,B cells,B cells
+TGCGAAACAGTCAC-1,1,B cells,B cells
+TGCGAAACGTTGCA-1,1,B cells,B cells
+TGCGATGAACGGTT-1,0,T cells,T cells
+TGCGATGACCTCGT-1,0,T cells,T cells
+TGCGATGACTAGTG-1,1,B cells,B cells
+TGCGATGACTGCTC-1,1,B cells,B cells
+TGCGATGACTTGCC-1,1,B cells,B cells
+TGCGATGAGTGCTA-1,2,Monocytes,Monocytes
+TGCGCACTCTTGAG-1,2,Monocytes,Monocytes
+TGCGTAGAATAAGG-1,2,Monocytes,Monocytes
+TGCGTAGACGGGAA-1,1,B cells,B cells
+TGCGTAGATGGTCA-1,4,Monocytes,Monocytes
+TGCTAGGAAACCGT-1,3,NK cells,NK cells
+TGCTAGGATAGTCG-1,0,T cells,T cells
+TGCTATACGGTTCA-1,5,Monocytes,Unknown
+TGCTATACTGCTGA-1,3,NK cells,NK cells
+TGCTGAGAGAGCAG-1,3,NK cells,NK cells
+TGCTGAGATTATCC-1,0,T cells,T cells
+TGGAAAGACTCTCG-1,1,B cells,B cells
+TGGAAAGAGCGATT-1,0,T cells,T cells
+TGGAAAGAGGTCAT-1,4,Monocytes,Monocytes
+TGGAAAGATATGGC-1,0,T cells,T cells
+TGGAACACAAACAG-1,3,NK cells,NK cells
+TGGAACACGCTAAC-1,3,NK cells,NK cells
+TGGAAGCTCAGATC-1,0,T cells,T cells
+TGGACCCTACACTG-1,2,Monocytes,Monocytes
+TGGACCCTCATGGT-1,3,NK cells,NK cells
+TGGACCCTGGTACT-1,2,Monocytes,Monocytes
+TGGACTGAGTATGC-1,0,T cells,T cells
+TGGAGACTATCAGC-1,2,Monocytes,Monocytes
+TGGAGACTGAAACA-1,0,T cells,T cells
+TGGAGACTTCAAGC-1,0,T cells,T cells
+TGGAGACTTGACCA-1,3,NK cells,NK cells
+TGGAGGGACGGAGA-1,2,Monocytes,Monocytes
+TGGAGGGAGCTATG-1,0,T cells,T cells
+TGGATCGATAAAGG-1,0,T cells,T cells
+TGGATGTGACCTAG-1,1,B cells,B cells
+TGGATGTGATGTCG-1,3,NK cells,NK cells
+TGGATGTGTGAAGA-1,1,B cells,B cells
+TGGATTCTCATACG-1,3,NK cells,NK cells
+TGGCAATGCTTGTT-1,1,B cells,B cells
+TGGCAATGGAGGGT-1,3,NK cells,NK cells
+TGGCACCTTCACGA-1,0,T cells,T cells
+TGGCACCTTCAGTG-1,2,Monocytes,Monocytes
+TGGGTATGAAGAGT-1,0,T cells,T cells
+TGGGTATGCACAAC-1,0,T cells,T cells
+TGGGTATGGTACGT-1,1,B cells,B cells
+TGGGTATGTTTGGG-1,2,Monocytes,Monocytes
+TGGTAGACATGCCA-1,0,T cells,T cells
+TGGTAGACCCTCAC-1,3,NK cells,NK cells
+TGGTAGACCTGATG-1,0,T cells,T cells
+TGGTAGTGCACTGA-1,2,Monocytes,Monocytes
+TGGTATCTAAACAG-1,0,T cells,T cells
+TGGTATCTCTTCCG-1,0,T cells,T cells
+TGGTCAGACCCAAA-1,0,T cells,T cells
+TGGTTACTGACGTT-1,2,Monocytes,Monocytes
+TGGTTACTGTTCTT-1,0,T cells,T cells
+TGTAACCTAGAGGC-1,0,T cells,T cells
+TGTAACCTTGCCTC-1,2,Monocytes,Monocytes
+TGTAATGACACAAC-1,3,NK cells,NK cells
+TGTAATGAGGTAAA-1,3,NK cells,NK cells
+TGTACTTGCTCTAT-1,4,Monocytes,Monocytes
+TGTAGGTGCGAGAG-1,1,B cells,B cells
+TGTAGGTGCTATGG-1,0,T cells,T cells
+TGTAGGTGCTCTAT-1,5,Monocytes,Unknown
+TGTAGGTGTGCTGA-1,0,T cells,T cells
+TGTAGTCTTCCAGA-1,0,T cells,T cells
+TGTAGTCTTGCACA-1,3,NK cells,NK cells
+TGTATCTGTTAGGC-1,0,T cells,T cells
+TGTATGCTCATGGT-1,1,B cells,B cells
+TGTATGCTGTAGGG-1,0,T cells,T cells
+TGTATGCTTTCATC-1,0,T cells,T cells
+TGTCAGGAATACCG-1,0,T cells,T cells
+TGTCAGGAGATGAA-1,4,Monocytes,Monocytes
+TGTCTAACCCCTTG-1,0,T cells,T cells
+TGTGACGATTCTCA-1,3,NK cells,NK cells
+TGTGAGACTGTCAG-1,4,Monocytes,Monocytes
+TGTGAGACTTGAGC-1,0,T cells,T cells
+TGTGAGTGACCACA-1,0,T cells,T cells
+TGTGAGTGAGTGCT-1,4,Monocytes,Monocytes
+TGTGAGTGGAGATA-1,3,NK cells,NK cells
+TGTGATCTCTCTAT-1,1,B cells,B cells
+TGTGATCTGACACT-1,0,T cells,T cells
+TGTGGATGGCCAAT-1,1,B cells,B cells
+TGTTAAGACAAAGA-1,2,Monocytes,Monocytes
+TGTTAAGATAAGGA-1,2,Monocytes,Monocytes
+TGTTAAGATTGGCA-1,2,Monocytes,Monocytes
+TGTTACACCGCATA-1,4,Monocytes,Monocytes
+TGTTACACGACTAC-1,2,Monocytes,Monocytes
+TGTTACTGGCTACA-1,3,NK cells,NK cells
+TGTTACTGTAGTCG-1,3,NK cells,NK cells
+TTAACCACCGTAAC-1,0,T cells,T cells
+TTAACCACTAAGGA-1,3,NK cells,NK cells
+TTAACCACTCAGAC-1,3,NK cells,NK cells
+TTACACACGTGTTG-1,0,T cells,T cells
+TTACACACTCCTAT-1,0,T cells,T cells
+TTACCATGAATCGC-1,2,Monocytes,Monocytes
+TTACCATGGTTGAC-1,0,T cells,T cells
+TTACCATGTGTCTT-1,0,T cells,T cells
+TTACCATGTTGTGG-1,1,B cells,B cells
+TTACGACTGAGAGC-1,0,T cells,T cells
+TTACGACTTGACAC-1,2,Monocytes,Monocytes
+TTACGTACGTTCAG-1,6,Monocytes,Unknown
+TTACTCGAACGTTG-1,3,NK cells,NK cells
+TTACTCGAAGAATG-1,2,Monocytes,Monocytes
+TTACTCGACGCAAT-1,5,Monocytes,Unknown
+TTACTCGAGGGTGA-1,0,T cells,T cells
+TTACTCGATCTACT-1,3,NK cells,NK cells
+TTAGAATGTGGTGT-1,0,T cells,T cells
+TTAGAATGTGTAGC-1,0,T cells,T cells
+TTAGACCTCCTACC-1,0,T cells,T cells
+TTAGACCTCCTTTA-1,2,Monocytes,Monocytes
+TTAGCTACAACCGT-1,0,T cells,T cells
+TTAGCTACTGTCCC-1,2,Monocytes,Monocytes
+TTAGCTACTTTCGT-1,0,T cells,T cells
+TTAGGGACGCGAAG-1,3,NK cells,NK cells
+TTAGGGTGCTGGAT-1,1,B cells,B cells
+TTAGGGTGTCCTGC-1,2,Monocytes,Monocytes
+TTAGGTCTACTTTC-1,2,Monocytes,Monocytes
+TTAGTCACCAGTTG-1,0,T cells,T cells
+TTAGTCTGAAAGCA-1,1,B cells,B cells
+TTAGTCTGCCAACA-1,3,NK cells,NK cells
+TTAGTCTGTGCACA-1,0,T cells,T cells
+TTATCCGACTAGTG-1,1,B cells,B cells
+TTATCCGAGAAAGT-1,2,Monocytes,Monocytes
+TTATGAGAGATAAG-1,0,T cells,T cells
+TTATGCACGTCACA-1,1,B cells,B cells
+TTATGGCTTATGGC-1,5,Monocytes,Unknown
+TTATTCCTATGCTG-1,2,Monocytes,Monocytes
+TTATTCCTGGACAG-1,1,B cells,B cells
+TTATTCCTGGTACT-1,1,B cells,B cells
+TTATTCCTTCGTGA-1,0,T cells,T cells
+TTCAAAGATAAAGG-1,3,NK cells,NK cells
+TTCAACACAACAGA-1,0,T cells,T cells
+TTCAACACCCCAAA-1,2,Monocytes,Monocytes
+TTCAACACGGACGA-1,4,Monocytes,Monocytes
+TTCAAGCTAAGAAC-1,2,Monocytes,Monocytes
+TTCAAGCTAGATGA-1,0,T cells,T cells
+TTCAAGCTGTTGAC-1,0,T cells,T cells
+TTCAAGCTTCCAAG-1,0,T cells,T cells
+TTCAAGCTTGATGC-1,0,T cells,T cells
+TTCAAGCTTTCGCC-1,0,T cells,T cells
+TTCACAACCCGTTC-1,2,Monocytes,Monocytes
+TTCACAACGTCTGA-1,2,Monocytes,Monocytes
+TTCAGACTACCCAA-1,0,T cells,T cells
+TTCAGACTCTCGAA-1,0,T cells,T cells
+TTCAGTACCGACTA-1,0,T cells,T cells
+TTCAGTACTCAAGC-1,0,T cells,T cells
+TTCAGTACTCCTAT-1,2,Monocytes,Monocytes
+TTCAGTTGCCAAGT-1,0,T cells,T cells
+TTCAGTTGTCCTTA-1,5,Monocytes,Unknown
+TTCAGTTGTCTAGG-1,0,T cells,T cells
+TTCAGTTGTCTCGC-1,1,B cells,B cells
+TTCATCGAGGTGGA-1,2,Monocytes,Monocytes
+TTCATGTGTGGTGT-1,0,T cells,T cells
+TTCATTCTATGTCG-1,2,Monocytes,Monocytes
+TTCATTCTTCTCTA-1,0,T cells,T cells
+TTCCAAACCTATGG-1,2,Monocytes,Monocytes
+TTCCAAACCTCCCA-1,1,B cells,B cells
+TTCCAAACTCCCAC-1,3,NK cells,NK cells
+TTCCAAACTTGACG-1,3,NK cells,NK cells
+TTCCATGACGAGAG-1,2,Monocytes,Monocytes
+TTCCATGACTGTCC-1,0,T cells,T cells
+TTCCCACTTGAGGG-1,3,NK cells,NK cells
+TTCCCACTTGTCTT-1,2,Monocytes,Monocytes
+TTCCTAGAAAGTGA-1,0,T cells,T cells
+TTCCTAGACTAGTG-1,4,Monocytes,Monocytes
+TTCGAGGACTCTAT-1,0,T cells,T cells
+TTCGAGGAGGGCAA-1,0,T cells,T cells
+TTCGAGGATAGAAG-1,4,Monocytes,Monocytes
+TTCGATTGAGCATC-1,0,T cells,T cells
+TTCGGAGAATGCCA-1,2,Monocytes,Monocytes
+TTCGGAGATGTGCA-1,0,T cells,T cells
+TTCGTATGAAAAGC-1,3,NK cells,NK cells
+TTCGTATGGATAGA-1,3,NK cells,NK cells
+TTCGTATGGTCTGA-1,0,T cells,T cells
+TTCGTATGTCCTTA-1,2,Monocytes,Monocytes
+TTCTACGAACGTAC-1,0,T cells,T cells
+TTCTACGAGTTGGT-1,0,T cells,T cells
+TTCTAGTGACACGT-1,0,T cells,T cells
+TTCTAGTGCATGAC-1,2,Monocytes,Monocytes
+TTCTAGTGGAGAGC-1,3,NK cells,NK cells
+TTCTAGTGGTCACA-1,4,Monocytes,Monocytes
+TTCTCAGAAGAGAT-1,0,T cells,T cells
+TTCTCAGAAGCATC-1,1,B cells,B cells
+TTCTCAGATGGAGG-1,0,T cells,T cells
+TTCTGATGGAGACG-1,3,NK cells,NK cells
+TTCTTACTCTGGAT-1,2,Monocytes,Monocytes
+TTGAACCTCCTTGC-1,1,B cells,B cells
+TTGAATGAACTACG-1,4,Monocytes,Monocytes
+TTGAATGACTTACT-1,0,T cells,T cells
+TTGAATGATCTCAT-1,1,B cells,B cells
+TTGACACTCTGTAG-1,0,T cells,T cells
+TTGACACTGATAAG-1,1,B cells,B cells
+TTGAGGACAGAACA-1,2,Monocytes,Monocytes
+TTGAGGACTACGCA-1,5,Monocytes,Unknown
+TTGAGGTGGACGGA-1,0,T cells,T cells
+TTGCATTGAGCTAC-1,3,NK cells,NK cells
+TTGCATTGCTAAGC-1,2,Monocytes,Monocytes
+TTGCATTGTGACTG-1,0,T cells,T cells
+TTGCTAACACCAAC-1,3,NK cells,NK cells
+TTGCTAACACGCTA-1,4,Monocytes,Monocytes
+TTGCTAACCACTCC-1,0,T cells,T cells
+TTGCTATGGTACGT-1,2,Monocytes,Monocytes
+TTGCTATGGTAGGG-1,4,Monocytes,Monocytes
+TTGGAGACCAATCG-1,0,T cells,T cells
+TTGGAGACGCTATG-1,2,Monocytes,Monocytes
+TTGGAGACTATGGC-1,1,B cells,B cells
+TTGGGAACTGAACC-1,0,T cells,T cells
+TTGGTACTACTGGT-1,2,Monocytes,Monocytes
+TTGGTACTCTTAGG-1,0,T cells,T cells
+TTGGTACTGAATCC-1,1,B cells,B cells
+TTGGTACTGGATTC-1,1,B cells,B cells
+TTGTACACGTTGTG-1,1,B cells,B cells
+TTGTACACTTGCAG-1,0,T cells,T cells
+TTGTAGCTAGCTCA-1,0,T cells,T cells
+TTGTAGCTCTCTTA-1,1,B cells,B cells
+TTGTCATGGACGGA-1,3,NK cells,NK cells
+TTTAGAGATCCTCG-1,1,B cells,B cells
+TTTAGCTGATACCG-1,0,T cells,T cells
+TTTAGCTGGATACC-1,2,Monocytes,Monocytes
+TTTAGCTGTACTCT-1,5,Monocytes,Unknown
+TTTAGGCTCCTTTA-1,2,Monocytes,Monocytes
+TTTATCCTGTTGTG-1,2,Monocytes,Monocytes
+TTTCACGAGGTTCA-1,0,T cells,T cells
+TTTCAGTGGAAGGC-1,3,NK cells,NK cells
+TTTCAGTGTCACGA-1,1,B cells,B cells
+TTTCAGTGTCTATC-1,2,Monocytes,Monocytes
+TTTCAGTGTGCAGT-1,1,B cells,B cells
+TTTCCAGAGGTGAG-1,0,T cells,T cells
+TTTCGAACACCTGA-1,5,Monocytes,Unknown
+TTTCGAACTCTCAT-1,2,Monocytes,Monocytes
+TTTCTACTGAGGCA-1,1,B cells,B cells
+TTTCTACTTCCTCG-1,1,B cells,B cells
+TTTGCATGAGAGGC-1,1,B cells,B cells
+TTTGCATGCCTCAC-1,0,T cells,T cells
